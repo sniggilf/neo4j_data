@@ -1,0 +1,618 @@
+ROUNDEL,TRANSCRIPTION,TRANSLATION,NUMBER_OF_LINES,REND
+CRN001,"[#1] [1] [Image of a ship], [Noah], [2] [Superimposed red rose]","[1] [Image of a ship], [Noah], [2] [Superimposed red rose]",1,decorated
+CRN002,[#1] Sem,Shem,1,brown-double
+CRN003,[#1] Cham,Ham,1,brown-double
+CRN004,[#1] Chus,Cush,1,brown-double
+CRN005,[#1] Nemroth,Nimrod,1,brown-double
+CRN006,[#1] Japhet,Japhet,1,brown-double
+CRN007,[#1] Strephus,Strephus,1,brown-double
+CRN008,[#1] Bedegius,Bedegius,1,brown-double
+CRN009,[#1] Gnala,Gnala,1,brown-double
+CRN010,[#1] Kadra,Kadra,1,brown-double
+CRN011,[#1] Sternodius,Sternodius,1,"[1] brown-double, [2] decorated"
+CRN012,[#1] Steph,Steph,1,brown-double
+CRN013,[#1] Steldius,Steldius,1,brown-double
+CRN014,[#1] Boerinus,Boerin,1,"[1] brown-double, [2] decorated"
+CRN015,[#1] Cinrincius,Cinrincius,1,brown-double
+CRN016,[#1] Gothus,Gothus,1,brown-double
+CRN017,[#1] Iutus,Jutus,1,brown-double
+CRN018,[#1] Wanda- [#2] lus,Vandalus,2,brown-double
+CRN019,[#1] Thetus,Thetus,1,brown-double
+CRN020,[#1] Fresus,Fresus,1,brown-double
+CRN021,[#1] Suethe- [#2] dus,Suethedus,2,brown-double
+CRN022,[#1] Dachus,Dachus,1,brown-double
+CRN023,[#1] Geate,Geate,1,brown-double
+CRN024,[#1] Godulphus,Godulphus,1,brown-double
+CRN025,[#1] Finnius,Finnius,1,brown-double
+CRN026,[#1] Fridala- [#2] sius,Fridalasius,2,brown-double
+CRN027,[#1] Fridewal- [#2] dus,Fridewaldus,2,brown-double
+CRN028,[#1] Godenus,Godenus,1,brown-double
+CRN029,[#1] Beldegi- [#2] us,Beldegius,2,brown-double
+CRN030,[#1] Beymun- [#2] dus,Beymundus,2,brown-double
+CRN031,[#1] Fridega- [#2] rius,Fridegarius,2,brown-double
+CRN032,[#1] Fridewy- [#2] nus,Fridewynus,2,brown-double
+CRN033,[#1] Winegius,Winegius,1,brown-double
+CRN034,[#1] Gywis,Gywis,1,brown-double
+CRN035,[#1] Eslius,Eslius,1,brown-double
+CRN036,[#1] Elesius,Elesius,1,brown-double
+CRN037,[#1] Cerdius,Cerdius,1,brown-double
+CRN038,[#1] Cealinus,Cealinus,1,brown-double
+CRN039,[#1] Guda,Guda,1,brown-double
+CRN040,[#1] Gewaldus,Gewaldus,1,brown-double
+CRN041,[#1] Kenardus,Kenardus,1,brown-double
+CRN042,[#1] Ingils,Ingils,1,brown-double
+CRN043,[#1] Orpa,Orpa,1,brown-double
+CRN044,[#1] Caphe,Caphe,1,brown-double
+CRN045,[#1] Jetha et [#2] Geatha,JethaÂ andÂ Geatha,2,N/A
+CRN046,[#1] Flocwall [#2] et Folcwall,FlocwallÂ andÂ Folcwall,2,N/A
+CRN047,[#1] Fynn,Fynn,1,N/A
+CRN048,[#1] Fredulf,Fredulf,1,N/A
+CRN049,[#1] Woden,Woden,1,grey-double
+CRN050,[#1] Frealaf,Frealaff,1,grey-double
+CRN051,[#1] Vecta,Vecta,1,grey-double
+CRN052,[#1] Victa,Victa,1,grey-double
+CRN053,[#1] Widgils,Widgils,1,grey-double
+CRN054,[#1] Kantia,Kent,1,"[1] grey-double, [2] rubricated"
+CRN055,[#1] Wepedag,Wepedag,1,grey-double
+CRN056,[#1] Sigegeag,Sigegeag,1,grey-double
+CRN057,[#1] Seablad,Seablad,1,grey-double
+CRN058,[#1] Sesugill,Sesugill,1,grey-double
+CRN059,[#1] Westreflacna,Westreflacna,1,grey-double
+CRN060,[#1] Witgils,Witgils,1,grey-double
+CRN061,[#1] Uskfrea,Uskfrea,1,grey-double
+CRN062,[#1] East [#2] Anglia,East Anglia,2,"[1] grey-double, [2] rubricated"
+CRN063,[#1] Widat,Widat,1,grey-double
+CRN064,[#1] Weremund,Weremund,1,grey-double
+CRN065,[#1] Offa,Offa,1,grey-double
+CRN066,[#1] Angelthen,Angelthen,1,grey-double
+CRN067,[#1] Comer,Comer,1,grey-double
+CRN068,[#1] Yall,Yall,1,grey-double
+CRN069,[#1] Kniwa,Kniwa,1,grey-double
+CRN070,[#1] Singwald,Singwald,1,grey-double
+CRN071,[#1] Northum- [#2] bria,Northumbria,2,"[1] grey-double, [2] rubricated"
+CRN072,[#1] Mer- [#2] ciorum,[Kingdom of the] Mercians,2,"[1] grey-double, [2] rubricated"
+CRN073,[#1] Saxnad,Saxony,1,grey-double
+CRN074,[#1] Andesk,Andesk,1,grey-double
+CRN075,[#1] Gefat,Gefat,1,grey-double
+CRN076,[#1] Spezwe,Spezwe,1,grey-double
+CRN077,[#1] Sigewolf,Sigewolf,1,grey-double
+CRN078,[#1] Reidkan,Reidkan,1,grey-double
+CRN079,[#1] Offe,Offe,1,grey-double
+CRN080,[#1] Est [#2] Sexia,Essex,2,"[1] grey-double, [2] rubricated"
+CRN081,[#1] Beldec,Beldec,1,grey-double
+CRN082,[#1] Brand,Brand,1,grey-double
+CRN083,[#1] Beonok,Benok,1,grey-double
+CRN084,[#1] Alek,Alek,1,grey-double
+CRN085,[#1] Angenwyt,Angenwyt,1,grey-double
+CRN086,[#1] Ingwyn,Ingwyn,1,grey-double
+CRN087,[#1] Esee,Esee,1,grey-double
+CRN088,[#1] Gorpe,Gorpe,1,grey-double
+CRN089,[#1] West [#2] Sexia,Wessex,2,"[1] grey-double, [2] rubricated"
+CRN090,[#1] South [#2] Sexia,Sussex,2,"[1] grey-double, [2] rubricated"
+CRN091,[#1] Jenan [#2] vel Janan,Jenan or Janan,2,brown-double
+CRN092,[#1] Cethnius,Cethis,1,brown-double
+CRN093,[#1] Ciprius,Cyprus,1,brown-double
+CRN094,[#1] Cretus,Cretus,1,brown-double
+CRN095,[#1] Celinus,Celius,1,brown-double
+CRN096,[#1] Saturnus,Saturn,1,brown-double
+CRN097,[#1] Jupiter,Jupiter,1,brown-double
+CRN098,[#1] Dardanus,Dardanus,1,brown-double
+CRN099,[#1] Erictonius,Erictonius,1,brown-double
+CRN100,[#1] Troius,Trojus,1,brown-double
+CRN101,[#1] Ilius,Ilus,1,brown-double
+CRN102,[#1] Lamedon,Lamedon,1,brown-double
+CRN103,[#1] Priamus,Priam,1,brown-double
+CRN104,[#1] Hector,Hector,1,brown-double
+CRN105,[#1] Assaracus,Assaracus,1,brown-double
+CRN106,[#1] Capis,Capis,1,brown-double
+CRN107,[#1] Anchises,Anchises,1,brown-double
+CRN108,[#1] Eneas,Aeneas,1,brown-double
+CRN109,[#1] Silvius [#2] posthumus,Silvius Posthumous,2,brown-double
+CRN110,[#1] Latinus,Latinus,1,brown-double
+CRN111,[#1] Alban,Alban,1,brown-double
+CRN112,[#1] Et sic [#2] usque ad [#3] Remum et [#4] Romulum,And thus up to Remus and Romulus,4,brown-double
+CRN113,[#1] Ascanius,Ascanius,1,brown-double
+CRN114,[#1] Silvius,Silvius,1,brown-double
+CRN115,[#1] Brutus,Brutus,1,"[1] brown-double, [2] decorated, [3] blue"
+CRN116,[#1] Albanac- [#2] tus,Albanactus,2,N/A
+CRN117,[#1] Kambri- [#2] us,Cambrius,2,brown-double
+CRN118,[#1] Gormoni- [#2] aun,Gormoniaun,2,brown-double
+CRN119,[#1] Dunwal- [#2] heon,Dunwalheon,2,brown-double
+CRN120,[#1] Morganus,Morgan,1,brown-double
+CRN121,[#1] Belyma- [#2] ure,Belymaure,2,brown-double
+CRN122,[#1] Lud,Lud,1,brown-double
+CRN123,[#1] Aveleth,Aveleth,1,brown-double
+CRN124,[#1] Avelath,Avelath,1,brown-double
+CRN125,[#1] Eudolen,Eudolen,1,brown-double
+CRN126,[#1] Eudos,Eudos,1,brown-double
+CRN127,[#1] Cunic,Cunic,1,brown-double
+CRN128,[#1] Gudeyrn,Gudeyrn,1,brown-double
+CRN129,[#1] Rydern,Rydern,1,brown-double
+CRN130,[#1] Grade,Grade,1,brown-double
+CRN131,[#1] Urban,Urban,1,brown-double
+CRN132,[#1] Tyntyll,Tyntyll,1,brown-double
+CRN133,[#1] Dehewynt,Dehewynt,1,brown-double
+CRN134,[#1] Tecuan,Tecuan,1,brown-double
+CRN135,[#1] Choyl [#2] Godabanc,Choyn Godabanc,2,brown-double
+CRN136,[#1] Kenen,Kenen,1,brown-double
+CRN137,[#1] Padern [#2] paysruth,Padern paysruth,2,brown-double
+CRN138,[#1] Gedeyn,Gedeyn,1,brown-double
+CRN139,[#1] Cunnedar- [#2] ledic,Cunn edarledic,2,brown-double
+CRN140,[#1] Eynann [#2] Yrth,Eynann Yrth,2,brown-double
+CRN141,[#1] Kadwal- [#2] lauhyr,Kadwallauhyr,2,brown-double
+CRN142,[#1] Maylgo,Malgo,1,brown-double
+CRN143,[#1] Maylgo [#2] Magnus,Malgo the Great,2,brown-double
+CRN145,[#1] Run,Run,1,brown-double
+CRN146,[#1] Bely,Bely,1,brown-double
+CRN148,[#1] XL [#2] Kadwanus [#3] 40 annorum,XL Kadwanus 40 years,3,brown-double
+CRN149,[#1] Kadwal- [#2] lo,Kadwallo,2,brown-double
+CRN150,[#1] Kadwala- [#2] drus,Kadwaladrus,2,green-double
+CRN151,[#1] Inorus,Inorus,1,brown-double
+CRN152,[#1] Ym,Ym,1,N/A
+CRN153,[#1] Idwall [#2] Iurth,Idwall Iurth,2,brown-double
+CRN154,[#1] Rodri [#2] maliti- [#3] nant,Rhodri Molwynog,3,brown-double
+CRN155,[#1] Kanaan [#2] dyndey- [#3] thos,Kanaan dyndeythos,3,brown-double
+CRN156,[#1] Dechild,Dechild,1,brown-double
+CRN157,[#1] Mernembreth,Mernem breth,1,brown-double
+CRN158,[#1] Bodri- [#2] vaur,Bodrivaur,2,brown-double
+CRN159,[#1] Anarand,Anarand,1,brown-double
+CRN160,[#1] Idwall [#2] voyll,Idwal voyll,2,brown-double
+CRN161,[#1] Menrit,Menrit,1,brown-double
+CRN162,[#1] Idwall,Idwal,1,brown-double
+CRN164,[#1] Kanaan,Kanaan,1,brown-double
+CRN165,[#1] Griffinus [#2] decollatus [#3] a suis,Gruffinus was beheaded by his own people,3,brown-double
+CRN166,[#1] Yerwede,Yerwede,1,N/A
+CRN167,[#1] Lewelinus,Llewelyn,1,brown-double
+CRN168,[#1] Gruffrius,Gruffrius,1,brown-double
+CRN169,[#1] Oweyn- [#2] goth,Oweyngoth,2,brown-double
+CRN170,[#1] Lewili- [#2] nus,Llewelyn,2,brown-double
+CRN171,[#1] David,David,1,brown-double
+CRN172,[#1] Rodri,Rodri,1,brown-double
+CRN173,[#1] Radell,Radell,1,brown-double
+CRN174,[#1] Howellda,Howellda,1,N/A
+CRN175,[#1] Owynus,Owen,1,brown-double
+CRN176,[#1] Eynann,Eynann Yrth,1,brown-double
+CRN177,[#1] Kadell,Kadell,1,brown-double
+CRN178,[#1] Resus,Resus,1,brown-double
+CRN179,[#1] Gruffinus,Gruffninus,1,brown-double
+CRN180,[#1] Resus [#2] maure,Resus the Moor,2,brown-double
+CRN182,[#1] Mereduth,Mereduth,1,brown-double
+CRN183,[#1] Idem [#2] Mereduth,The same Mereduth,2,brown-double
+CRN181,[#1] Resus,Resus,1,brown-double
+CRN184,[#1] Resus,Resus,1,brown-double
+CRN185,[#1] X [#2] Locrinus [#3] 10,X Locrinus 10,3,brown-double
+CRN186,[#1] XL [#2] Maddan [#3] 40,XL Maddan 40,3,brown-double
+CRN187,[#1] XX [#2] Mempricius [#3] 20,XX Mempricius 20,3,brown-double
+CRN188,[#1] LX [#2] Ebrancus [#3] 60,LX Ebrancus 60,3,brown-double
+CRN189,[#1] XII [#2] Brutus [#3] viridescu- [#4] tum 12,XII Brutus Greenshield 12,4,brown-double
+CRN190,[#1] XXV [#2] Leyl [#3] 25,XXV Leil 25,3,brown-double
+CRN191,[#1] XXXIX [#2] Runhyrbras [#3] 39,XXXIX Rud Hud Hudibras 39,3,brown-double
+CRN192,[#1] XXVI [#2] Bladuth [#3] 26,XXVI Bladud 26,3,brown-double
+CRN193,[#1] LX [#2] Leyr [#3] 60,LX Lear 60,3,brown-double
+CRN194,[#1] Gnarilla [#2] 3,Gonarilla 3,2,brown-double
+CRN195,[#1] Morganus [#2] 2,Morgan 2,2,green-double
+CRN196,[#1] Cordella [#2] 5,Cordella 5,2,brown-double
+CRN197,[#1] III [#2] Regan [#3] 3,III Regan 3,3,brown-double
+CRN198,[#1] XXXV [#2] Cuneda- [#3] gius [#4] 35,XXXV Cunedag 35,4,brown-double
+CRN199,[#1] XIX [#2] Rutlan [#3] vel Rivallo [#4] 19,XIX Rutlan or Riwallo 19,4,brown-double
+CRN200,[#1] VII [#2] Gurgustus [#3] 7,VII Gurgustius 7,3,brown-double
+CRN201,[#1] XV [#2] Sisillius [#3] 15,XV Sisillius 15,3,brown-double
+CRN202,[#1] Yago,Iago,1,brown-double
+CRN203,[#1] IX [#2] Kymarcus [#3] 9,IX Kimarcus 9,3,brown-double
+CRN204,[#1] Gorbodu- [#2] go,Gorboduc,2,brown-double
+CRN205,[#1] Porrex,Porrex,1,brown-double
+CRN206,[#1] XL [#2] Dunwallo [#3] vel Mumul- [#4] tius [#5] 40,XL Dunwallo or Mumultius 40,5,brown-double
+CRN207,[#1] Brenius [#2] 5,Brennius 5,2,brown-double
+CRN208,[#1] XXIIII [#2] Belinus [#3] 24,XXIIII Belinus 24,3,brown-double
+CRN209,[#1] Gurgwy- [#2] nt bartrut,Gurgiunt Barbtruc,2,brown-double
+CRN210,[#1] Guthelinus,Guithelin,1,brown-double
+CRN211,[#1] XV [#2] Sisillius [#3] 15,XV Sisillius 15,3,brown-double
+CRN211,[#1] XV [#2] Sisillius [#3] 15,XV Sisillius 15,3,brown-double
+CRN212,[#1] XI [#2] Kymarus [#3] 11,XI Kinarius 11,3,brown-double
+CRN213,[#1] Danius [#2] 15,Danius 15,2,brown-double
+CRN214,[#1] X [#2] Morwidus [#3] 10,X Morvidus 10,3,brown-double
+CRN215,[#1] VII [#2] Gorbonia- [#3] nus [#4] 7,VII Gorbonianus 7,4,brown-double
+CRN216,[#1] X [#2] Archigal- [#3] lo [#4] 10,X Arthgallo 10,4,brown-double
+CRN217,[#1] Elidurus [#2] pius,Elidur the pious,2,brown-double
+CRN218,[#1] VII [#2] Peredurus [#3] 7,VII Peredur 7,3,brown-double
+CRN219,[#1] VII [#2] Vigenius [#3] 7,VII Vigenius 7,3,brown-double
+CRN220,[#1] XI [#2] Regyn [#3] 11,XI Regyn 11,3,brown-double
+CRN221,[#1] XXI [#2] Morganus [#3] 21,XXI Morgan 21,3,brown-double
+CRN222,[#1] VI [#2] Eynaun [#3] 6,VI Ennianus 6,3,brown-double
+CRN223,[#1] VII [#2] Idwall [#3]  7,VII Idwal 7,3,brown-double
+CRN224,[#1] IX [#2] Rim [#3] 9,IX Rhun 9,3,brown-double
+CRN225,[#1] III [#2] Geroncius [#3] 3,III Geraint 3,3,brown-double
+CRN226,[#1] VIII [#2] Catell [#3] 8,VIII Kadell 8,3,brown-double
+CRN227,[#1] XI [#2] Choyll [#3] 11,XI Coel 11,3,brown-double
+CRN228,[#1] II [#2] Porrex [#3] 2,II Porrex 2,3,brown-double
+CRN229,[#1] XXI [#2] Cheryn [#3] 21,XXI Cherin 21,3,brown-double
+CRN230,[#1] Fulgentius [#2] 11,Fulgenius 11,2,brown-double
+CRN231,[#1] Androgius [#2] 19,Andragius 19,2,brown-double
+CRN232,[#1] VI [#2] Eldadus [#3] 6,VI Edadus 6,3,brown-double
+CRN233,[#1] L [#2] Vrianus [#3] 50,L Urianus 50,3,brown-double
+CRN234,[#1] XL [#2] Eliud [#3] 40,XL Eliud 40,3,brown-double
+CRN235,[#1] XII [#2] Cledancus [#3] 12,XII Cledauc 12,3,brown-double
+CRN236,[#1] X [#2] Clotenus [#3] 10,X Cloten 10,3,brown-double
+CRN237,[#1] VII [#2] Gurguntius [#3] 7,VII Gurguint 7,3,brown-double
+CRN238,[#1] V [#2] Merianus [#3] 5,V Merianus 5,3,brown-double
+CRN239,[#1] Blethinus [#2] 1,Bledud 1,2,brown-double
+CRN240,[#1] XI [#2] Caap [#3] 11,XI Cap 11,3,brown-double
+CRN241,[#1] XIX [#2] Cenus [#3] 19,XIX Oenus 19,3,brown-double
+CRN242,[#1] XIII [#2] Sisillius [#3] 13,XIII Sisillius 13,3,brown-double
+CRN243,[#1] Archina- [#2] yll [#3] 2,Arthmail 2,3,brown-double
+CRN244,[#1] XV [#2] Bledga- [#3] bred [#4] 15,XV Bledgabred 15,4,brown-double
+CRN245,[#1] XXV [#2] Eldol [#3] 25,XXV Eldol 25,3,brown-double
+CRN246,[#1] VII [#2] Rodyon [#3] 7,VII Redion 7,3,brown-double
+CRN247,[#1] Rydergius,Redech,1,brown-double
+CRN248,[#1] Sawl 29 [#2] Pemsell 14,Samuil 29 Penissel 14,2,brown-double
+CRN249,[#1] XII [#2] Pyr [#3] 12,XII Pir 12,3,brown-double
+CRN250,[#1] VIII [#2] Capoyr [#3] 8,VIII Capoir 8,3,brown-double
+CRN251,[#1] XXVIII [#2] Diwellius [#3] 28,XXVIII Cligueillius 28,3,brown-double
+CRN252,[#1] Ely,Heli,1,brown-double
+CRN253,[#1] Lud [#2] 21,Lud 21,2,brown-double
+CRN254,[#1] Nennius,Nennius,1,brown-double
+CRN255,[#1] XII [#2] Cassibeli- [#3] anus [#4] 12,XII Cassibelaunus 12,4,brown-double
+CRN256,[#1] XXIII [#2] Tenancius [#3] 23,XXIII Tenvantius 23,3,brown-double
+CRN257,[#1] X [#2] Kymbeli- [#3] nus [#4] 10,X Cymbeline 10,4,brown-double
+CRN258,[#1] XIII [#2] Guiderus [#3] 13,XIII Guiderius 13,3,brown-double
+CRN259,[#1] Arviragus [#2] 11,Arviragus 11,2,brown-double
+CRN260,[#1] XXIX [#2] Marius [#3] 29,XXIX Marius 29,3,N/A
+CRN261,[#1] XL [#2] Choylus [#3] 40,XL Coilus 40,3,N/A
+CRN262,[#1] LXVII [#2] Lucius [#3] rex [#4] 67,LXVII King Lucius 67,4,grey-double
+CRN263,[#1] Severus [#2] romanus,Severus the Roman,2,"inner red, outer brown"
+CRN264,[#1] XII [#2] Basianus [#3] 12,XII Bassianus 12,3,grey-double
+CRN265,[#1] Gethas,Geta,1,grey-double
+CRN266,[#1] VII [#2] Carautius [#3] 7,VII Carausius 7,3,grey-double
+CRN267,[#1] III [#2] Allectus [#3] romanus [#4] 3,III Allectus the Roman 3,4,grey-double
+CRN268,[#1] X [#2] Asclepio- [#2] dotus [#3] 10,X Asclepiodotus 10,4,grey-double
+CRN269,[#1] XXX [#2] Choyll [#3] 30,XXX Coel 30,3,brown-double
+CRN270,[#1] XI [#2] Constantius [#3] romanus [#4] 11,XI Constantius the Roman 11,4,brown-double
+CRN271,[#1] XXX [#2] Constan- [#3] tinus [#4] magnu [#5]  30,XXX Constantine the Great 30,5,brown-double
+CRN272,[#1] LV [#2] Octonius [#3] 55,LV Octavius 55,3,N/A
+CRN273,[#1] V [#2] Maximia- [#3] nus mag- [#4] nus [#5] 5,V Maximian the Great 5,5,brown-double
+CRN274,[#1] Gratianus [#2] romanus [#2] 7,Gratianus the Roman 7,3,brown-double
+CRN275,[#1] X [#2] Constantinus [#3] 10,X Constantine 10,#2-3,brown-double
+CRN276,[#1] Constans [#2] 7,Constans 7,2,brown-double
+CRN277,[#1] Utherpen- [#2] dragon,Uther Pendragon,2,brown-double
+CRN278,[#1] XXIII [#2] Vortigerus [#3] 23,XXIII Vortigern 23,3,brown-double
+CRN279,[#1] Vortimerus [#2] 6,Vortimer 6,3,brown-double
+CRN280,[#1] XVII [#2] Aurelius [#3] Ambrosius [#4] 17,XVII Aurelius Ambrosius 17,4,brown-double
+CRN281,[#1] Utherpen- [#2] dragon [#3] frater,"Uther Pendragon, his brother",3,brown-double
+CRN282,[#1] XXIX [#2] Arthurus [#3] 29,XXIX Arthur 29,3,brown-double
+CRN283,[#1] Constantinus [#2] tertius [#3] 4,Constantine III 4,3,brown-double
+CRN284,[#1] Conanus [#2] 3,Conan 3,2,brown-double
+CRN285,[#1] Vortipo- [#2] rius [#3] 4,Vortipor 4,3,brown-double
+CRN286,[#1] Maylgo [#2] 5,Malgo 5,2,brown-double
+CRN287,[#1] Careticus,Caretic,1,brown-double
+CRN288,[#1] XXXI [#2] Hengistus [#3] 31,XXXI Hengist 31,3,brown-double
+CRN289,[#1] XXIIII [#2] Eswi et [#3] Ostha [#4] 24,XXIIII Eswi and Ostha 24,4,brown-double
+CRN290,[#1] Otra,Otra,1,brown-double
+CRN291,[#1] LVI [#2] Edelbrith [#3] 56,LVI Ã†thelbert 56,3,brown-double
+CRN292,[#1] XXIIII [#2] Edelbal- [#3] dus [#4] 24,XXIIII Ã†thelbald 24,4,brown-double
+CRN293,[#1] XXVI [#2] Artenbru- [#3] thus [#4] 26,XXVI Artenbruth 26,4,brown-double
+CRN294,[#1] Egbrichtus,Egbricht,1,brown-double
+CRN295,[#1] Ermericus,Ermeric,1,brown-double
+CRN296,[#1] Lotharius [#2] bonus [#3] 13,Lotharius the Good 13,3,brown-double
+CRN297,[#1] Eadric [#2] 1,Eadric 1,2,brown-double
+CRN298,[#1] Erthenbert,Erthenbert,1,brown-double
+CRN299,[#1] Widredus [#2] et Wibert [#3] 6,Widred and Wibert 6,3,brown-double
+CRN300,[#1] XXXIII [#2] Switrec [#3] 33,XXXIII Switrec 33,3,brown-double
+CRN301,[#1] XXII Ã· Ã·  [#2] Eadbrit [#3] 22,XXII Â½ Eadbrit 22,3,brown-double
+CRN302,[#1] XII [#2] Adelbrith [#3] 12,XII Ã†thelbrith 12,3,brown-double
+CRN303,[#1] XXXIIII [#2] Egfred [#3] 34,XXXIIII Egfred 34,3,brown-double
+CRN304,[#1] Eadbrich- [#2] pren [#3] 3,Eadbrith Pren 3,3,brown-double
+CRN305,[#1] Cudred [#2] 9,Cudred 9,2,brown-double
+CRN306,[#1] XVIII [#2] Elred [#3] 18,XVIII Elred 18,3,brown-double
+CRN307,[#1] Uffa et [#2] Ulfa,UffaÂ andÂ Ulfa,2,brown-double
+CRN308,[#1] Titulus,Titulus,1,brown-double
+CRN309,[#1] Redwal- [#2] dus,RÃ¦dwald,2,brown-double
+CRN310,[#1] Eadwall [#2] qui conversus per [#3] felicem [#4] episcopum,Eadwall who was converted through the happy bishop,4,brown-double
+CRN311,[#1] Warpwal- [#2] de,Warpwalde,2,brown-double
+CRN312,[#1] Sigebertus [#2] frater monachus [#3] sanctus est,Sigebert's brother is a blessed monk,3,brown-double
+CRN313,[#1] Egritus,Ecgric,1,brown-double
+CRN314,[#1] Anna fratus [#2] eni,Anna his brother,2,brown-double
+CRN315,[#1] Adelher,Ã†thelhere,1,brown-double
+CRN316,[#1] Adelbold,Ã†thelbold,1,brown-double
+CRN317,[#1] Ardulfus,Ardulf,1,brown-double
+CRN319,[#1] XII [#2] Ida [#3] 12,XII Ida 12,3,brown-double
+CRN320,[#1] XXX [#2] Ella [#3] filius Uffe [#4] 30,XXX Ã†lla son of Uffe 30,4,brown-double
+CRN321,[#1] Alderic,Ã†thelric,1,brown-double
+CRN322,[#1] Edelfrid [#2] 5,Ã†helfrith 5,2,brown-double
+CRN323,[#1] Edwinus,Edwin,1,brown-double
+CRN324,[#1] Oswaldus [#2] 9,Oswald 9,1,brown-double
+CRN325,[#1] XX [#2] Oswy frater [#2] 20,XX Oswy his brother 20,3,brown-double
+CRN326,[#1] XV [#2] Egfred [#3] 15,XV Egfred 15,3,brown-double
+CRN327,[#1] XX [#2] Alfridus [#3] frater 20,XX Alfred his brother 20,3,brown-double
+CRN328,[#1] XI [#2] Offredus [#3] 11,XI Offred 11,3,brown-double
+CRN329,[#1] Kenred [#2] 2,Kenred 2,2,brown-double
+CRN330,[#1] XI [#2] Osrich [#3] 11,XI Osric 11,3,brown-double
+CRN331,[#1] Ceolwulf [#2] frater 8 annis et [#3] postea monach- [#4] us,Ceolwulf his brother [reigned] 8 years and was later a monk,4,brown-double
+CRN332,[#1] Eadbertus [#2] 21 annis et postea [#3] mona- [#4] chus,Eadbert [reigned] 21 years and was later a monk,4,brown-double
+CRN333,[#1] Oswolf,Oswulf,1,brown-double
+CRN334,[#1] Mal [#2] Edelwold [#3] 6,Ã†thelwald Moll 6,3,brown-double
+CRN335,[#1] Alredus [#2] 8,Alred 8,2,brown-double
+CRN336,[#1] Edelred [#2] frater mal [#3] 3,Ã†thelred brother of Moll 3,3,brown-double
+CRN337,[#1] X [#2] Alfwold [#3] 10,X Ã†lfwald 10,3,brown-double
+CRN338,[#1] Efred [#2] 1,Ã†fred 1,2,brown-double
+CRN339,[#1] Ardulf [#2] 9,Ardulf 9,2,brown-double
+CRN340,[#1] XVIII [#2] Elred [#3] 18,XVIII Ã†lred 18,2,brown-double
+CRN341,[#1] Erthe- [#2] wyne,Erthewyne,2,brown-double
+CRN342,[#1] Sled,Sled,1,brown-double
+CRN343,[#1] Sibert,Sibert,1,brown-double
+CRN344,[#1] Sigebertus,Sigebert,1,brown-double
+CRN346,[#1] Wythelinus,Wythelin,1,brown-double
+CRN347,[#1] Selby [#2] quem occidit [#3] penda,Selby who was killed by Penda,3,brown-double
+CRN348,[#1] Sigardus,Sigard,1,brown-double
+CRN349,[#1] Sigbertus,Sigbert,1,brown-double
+CRN345,[#1] Sibertus,Sibert,1,brown-double
+CRN350,[#1] Sibertus,Sibert,1,brown-double
+CRN351,[#1] Switeli- [#2] nus,Switelin,2,brown-double
+CRN352,[#1] Sigher,Sigher,1,brown-double
+CRN353,[#1] Selby,Selby,1,brown-double
+CRN354,[#1] Kewynus,Kewyn,1,brown-double
+CRN355,[#1] Serdic [#2] 7,Cerdic 7,2,brown-double
+CRN356,[#1] Kynrik,Cynric,1,brown-double
+CRN357,[#1] Chelyng,Ceawlin,1,brown-double
+CRN358,[#1] XLI [#2] Cheldric [#3] 41,XLI Celdric 41,3,brown-double
+CRN359,[#1] XIIII [#2] Cheol- [#3] wolf [#4] 14,XIIII Ceolwulf 14,4,brown-double
+CRN360,[#1] XXXI [#2] Kyngils [#3] xanus [#4] 31,XXXI Cynegisl the Christian 31,4,brown-double
+CRN361,[#1] XXXI [#2] Chen- [#3] walt quem [#4] occidit penda [#5] 31,XXXI Cenwealh who was killed by Penda 31,5,brown-double
+CRN362,[#1] Escwine [#2] 2,Ã†scwine 2,2,brown-double
+CRN363,[#1] Kenwyn [#2] 9,Centwine 9,2,brown-double
+CRN364,[#1] Cedwalla [#2] 2,CÃ¦dwalla 2,2,brown-double
+CRN365,[#1] XXXVII [#2] Ine [#3] 37,XXXVII Ine 37,3,brown-double
+CRN366,[#1] Athelardus [#2] 9,Ã†thelheard 9,2,brown-double
+CRN367,[#1] XXVI [#2] Cudredus [#3] 26,XXVI Cuthred 26,3,brown-double
+CRN368,[#1] Sigebius [#2] 1,Sigebert 1,2,brown-double
+CRN369,[#1] XXXVI [#2] Wynwolf [#3] 36,XXXVI Cynewulf 36,3,brown-double
+CRN370,[#1] XVI [#2] Britrith [#2] 16,XVI Beorhtric 16,3,brown-double
+CRN371,[#1] Crida,Crida,1,brown-double
+CRN372,[#1] Wirpa,Wirpa,1,brown-double
+CRN373,[#1] Cheorlus,Cearl,2,brown-double
+CRN374,[#1] Penda,Penda,1,brown-double
+CRN375,[#1] Penda,Penda,1,brown-double
+CRN376,[#1] XIX [#2] Edelred [#3] 19 postea mona- [#4] chus,XIX Ã†thelred [reigned] 19 years and was later a monk,4,brown-double
+CRN377,[#1] Kenred 5 [#2] postea monachus,Coenred [reigned] 5 years and was later a monk,2,brown-double
+CRN378,[#1] Ceolred [#2] 8,Ceolred 8,2,brown-double
+CRN379,[#1] XLI [#2] Adelbold [#3] 41,XLI Ã†thelbald 41,3,brown-double
+CRN380,[#1] Beornr- [#2] ed [#3] 1,Beornred 1,3,brown-double
+CRN381,[#1] XXXIX [#2] Offa [#3] 39,XXXIX Offa 39,3,brown-double
+CRN382,[#1] Egfred [#2] 1,Ecgfrith 1,2,brown-double
+CRN383,[#1] Kenwolf [#2] 26,Coenwulf 26,2,brown-double
+CRN384,[#1] Cealwolf [#2] 8,Ceolwulf 8,2,brown-double
+CRN385,[#1] Beornwulf [#2] 1,Beornwulf 1,2,brown-double
+CRN386,[#1] Ludecen [#2] 1,Ludeca 1,2,brown-double
+CRN387,[#1] Wilaf [#2] 1,Wiglaf 1,2,brown-double
+CRN388,[#1] Ella [#2] 20,Ã†lla 20,2,brown-double
+CRN389,[#1] Scissa,Scissa,1,brown-double
+CRN390,[#1] Edelwold,Ã†thelwald,1,brown-double
+CRN391,[#1] Adelbryth,Ã†thelbrith,1,brown-double
+CRN392,[#1] XXXVII XXVI [#2] Egbrutus [#3] 37 annis 26 [#4] mensibus,XXXVII XXVI Egbert [reigned] 37 years 26 months,4,"[1] brown-double, [2] decorated"
+CRN393,[#1] XVIII [#2] Edwol- [#3] phus [#4] 18,XVIII Ã†thelwulf 18,4,brown-double
+CRN394,[#1] Edboldus [#2] 5,Ã†thelbald 5,2,brown-double
+CRN395,[#1] Edelbrith [#2] 5,Ã†thelbert 5,2,brown-double
+CRN396,[#1] Edelred [#2] 6,Ã†thelred 6,2,brown-double
+CRN397,[#1] XXX [#2] Alfredus [#3] 30,XXX Alfred 30,3,brown-double
+CRN399,[#1] XXVI [#2] Edwardus [#3] 26,XXVI Edward 26,3,brown-double
+CRN400,[#1] Nobiles [#2] filie,Noble daughters,2,brown-double
+CRN401,[#1] Alfredus,Alfred,1,brown-double
+CRN402,[#1] Edwydus [#2] qui submersus [#3] est,Edward who was drowned,3,brown-double
+CRN403,[#1] Edredus,Eadred,1,brown-double
+CRN404,[#1] Sanctus [#2] Edmun- [#3] dus,Saint Edmund,3,brown-double
+CRN405,[#1] XIIII [#2] Athelsta- [#3] nus [#4] 14,XIIII Ã†thelstan 14,4,brown-double
+CRN406,[#1] Edmun- [#2] dus fratres [#3] a dimidio,Edmund [his] half brother.,3,brown-double
+CRN407,[#1] Eadwinus,Eadwig,1,brown-double
+CRN408,[#1] Edgarus,Edgar,1,brown-double
+CRN409,[#1] X [#2] Edredus [#3] frater ejus [#4] 10,X Eadred his brother 10,4,brown-double
+CRN410,[#1] Edwyn [#2] 5,Edwyn 5,2,brown-double
+CRN411,[#1] XVI [#2] Edgarus [#3] 16,XVI Edgar 16,3,brown-double
+CRN412,[#1] Sancta [#2] Editha,Saint Edith,2,brown-double
+CRN414,[#1] Edwardus [#2] martyr [#3] 5,Edward the Martyr 5,2,brown-double
+CRN415,[#1] Alredus frater [#2] Edwardi,Ã†thelred brother of Edward,1,brown-double
+CRN416,[#1] Alfredus,Alfred,1,brown-double
+CRN417,[#1] Eadem [#2] Emma,The same Emma,2,brown-double
+CRN418,[#1] Edmundus [#2] Irenside,Edmund Ironside,2,brown-double
+CRN419,[#1] Idem [#2] Edmundus [#3] Irenside,The same Edmund Ironside,3,brown-double
+CRN420,[#1] Edwydus [#2] exul,Edward the Exile,2,brown-double
+CRN422,[#1] Edgarus [#2] Ethelyng,Edgar Ã†theling,2,brown-double
+CRN423,[#1] Marga- [#2] reta regina [#3] Scotie,Margaret queen of Scotland,3,brown-double
+CRN424,[#1] Cristina [#2] sanctimoni [#3] alis,Christina the nun,3,brown-double
+CRN425,[#1] Matil- [#2] da filia [#3] ejus,Matilda her daughter,3,brown-double
+CRN426,[#1] Marga- [#2] reta filia [#3] matilda [sic: Agatha],Margaret daughter of Matilda [sic: Agatha],3,?
+CRN427,[#1] Matil- [#2] da filia [#3] ejus,Matilda her daughter,3,brown-double
+CRN428,[#1] Knutus,Cnut,1,brown-double
+CRN429,[#1] Emma,Emma,1,?
+CRN430,[#1] Sweyn [#2] danus,Sweyn the Dane,2,?
+CRN431,[#1] Haraldus [#2] hareforth,Harold Harefoot,2,brown-double
+CRN432,[#1] Hardeknu- [#2] tus frater,Harthacnut [his] brother,2,brown-double
+CRN433,[#1] Sanctus [#2] Edwardus [#3] Confessor,Saint Edward the Confessor,3,"[1] brown-double, [2] decorated, [3] rubricated"
+CRN434,[#1] Haraldus [#2] 9 mensibus,Harold [reigned] 9 months,2,brown-double
+CRN435,[#1] XXI [#2] Willelmus [#3] Conquestor [#4] 21,XXI William the Conqueror 21,4,"[1] brown-double, [2] decorated, [3] rubricated"
+CRN436,[#1] Quatuor [#2] alie filie,Four other sons,2,brown-double
+CRN437,[#1] Adala [#2] uxor comitis [#3] Blesensis,Adela wife of the Count of Blois,3,brown-double
+CRN438,[#1] Stepha- [#2] nus,Stephen,2,?
+CRN439,[#1] Henricus [#2] clericus,Henry the Cleric,2,brown-double
+CRN440,[#1] Ricardus [#2] qui obitt [#2] juvenis,Richard who died young,3,?
+CRN441,[#1] XIIII [sic: XII] [#2] Willelmus [#3] Rufus [#4] 12,XIIII [sic: XII] William Rufus 12,4,brown-double
+CRN442,[#1] Robertus [#2] courthu- [#3] se,Robert Curthose,3,?
+CRN443,[#1] XXXV [#2] Henricus [#3] primus [#4] 35,XXXV Henry I 35,4,brown-double
+CRN444,[#1] Matilda [#2] imperatrix,Matilda the Empress,2,brown-double
+CRN445,[#1] Una [#2] filia sub- [#3] mersa,One daughter drowned,3,brown-double
+CRN446,[#1] Willelmus [#2] submersus,William drowned,2,brown-double
+CRN447,[#1] Robertus [#2] submersus,Robert drowned,2,brown-double
+CRN448,[#1] XIX [#2] Idem [#3] Stephanu [#4]  Blesensis [#5] 19,XIX The same Stephen of Blois 19,5,brown-double
+CRN449,[#1] XXXV [#2] Henricus [#3] Secondus [#4] 35,XXXV Henry II 35,4,brown-double
+CRN450,[#1] Comitis- [#2] sa tholo- [#3] se,The Countess of Toulouse,3,brown-double
+CRN451,[#1] Eleno- [#2] ra regina  [#3] castelle,Eleanor queen of Castile,3,brown-double
+CRN452,[#1] Johannes,John,1,brown-double
+CRN453,[#1] Matil- [#2] da ducissa  [#3] Saxonis [#4] et Sardis,Matilda duchess of Saxony and Sardis,4,brown-double
+CRN454,[#1] Henricus [#2] dux Sax- [#3] onie,Henry duke of Saxony,3,brown-double
+CRN455,[#1] Octes [#2] Imperator,Otto the Emperor,2,brown-double
+CRN456,[#1] Galfri- [#2] dus dux [#3] Britannie,Geoffrey duke of Brittany,3,brown-double
+CRN457,[#1] Arthurus [#2] dux Brittan- [#3] nie,Arthur duke of Brittany,3,brown-double
+CRN458,[#1] X [#2] Ricardus [#3] primus [#4] 10,X Richard I 10,4,brown-double
+CRN459,[#1] Henricus [#2] junior [#3] elegans,Elegant Henry the Younger,3,brown-double
+CRN460,[#1] Willelmus [#2] qui statim [#3] obiit,William who died immediately,3,brown-double
+CRN461,[#1] XVII [#2] Johannes [#3] 17,XVII John 17,3,brown-double
+CRN462,[#1] Johanna [#2] regina [#3] Scotie,Joan queen of Scotland,3,brown-double
+CRN463,[#1] Elieno- [#2] ra comitessa [#3] Pembroche,Eleanor countess of Pembroke,3,brown-double
+CRN464,[#1] Isabella [#2] imperatrix [#3] uxor Fre- [#4] derici,Empress Isabella wife of Frederick [II],4,brown-double
+CRN465,[#1] Ricardus [#2] rex alma [#3] nie,Richard king of Germany,3,brown-double
+CRN466,[#1] Edmun- [#2] dus dux [#3] Cornubie,Edmund duke of Cornwall,3,brown-double
+CRN467,[#1] Henricus [#2] de alma- [#3] nia,Henry of Germany,3,brown-double
+CRN468,[#1] LVII [#2] Henricus [#3] tertius [#4] 57,LVII Henry III 57,4,brown-double
+CRN469,[#1] Henricus [#2] qui jacet [#3] Westmonastri,Henry who lies at Westminster,3,brown-double
+CRN470,[#1] Willelmus [#2] qui sepultus- [#3] est in templo,William who is buried in the Temple,3,brown-double
+CRN471,[#1] Johannes [#2] qui jacet [#3] Westmonastri,John who lies at Westminster,3,brown-double
+CRN472,[#1] Ricardus [#2] qui apud West- [#3] monastri,Richard who is [buried] at Westminster,3,brown-double
+CRN473,[#1] Katrina [#2] que cito [#3] abiit,Katherine who died before long,3,brown-double
+CRN474,[#1] Beatrix,Beatrix,1,brown-double
+CRN475,[#1] Edmundus,Edmund,1,brown-double
+CRN476,[#1] Marga- [#2] reta,Margaret,2,brown-double
+CRN477,[#1] XXXIIII [#2] Edwar- [#3] dus primus [#4] 34,XXXIIII Edward I 34,4,brown-double
+CRN478,[#1] Marga- [#2] reta secunda [#3] uxor,Margaret [his] second wife,3,N/A
+CRN479,[#1] Elenora,Eleanor,1,N/A
+CRN480,[#1] Edm- [#2] undus co- [#3] mes kan- [#4] tie,Edmund Earl of Kent,4,N/A
+CRN481,[#1] Thomas [#2] comes Manchall- [#3] ie,Thomas Earl Marshal,4,N/A
+CRN482,[#1] Eleano- [#2] ra prima [#3] uxor,Eleanor [his] first wife,3,N/A
+CRN483,[#1] Eleano- [#2] ra comitissa [#3] de Barr...[illegible],Eleanor countess of,3,brown-double
+CRN484,[#1] Johanna [#2] comitissa de [#3] gloucester,Joan countess of Gloucester,3,brown-double
+CRN485,[#1] Johanna,Joan,1,brown-double
+CRN486,[#1] Henricus,Henry,1,brown-double
+CRN487,[#1] Margareta [#2] ducissa bra- [#3] bantie,Margaret duchess of Brabant,3,brown-double
+CRN488,[#1] Margare- [#2] ta,Margaret,2,brown-double
+CRN489,[#1] Elizabeth [#2] comitissa [#3] de Herford,Elizabeth countess of Hereford,3,brown-double
+CRN490,[#1] Maria [#2] monacha [#3] de Amis- [#4] bery,Maria a nun of Amesbury,4,brown-double
+CRN491,[#1] Elizabeth [#2] comitissa de [#3] Honiland,Elizabeth countess of Holland,3,brown-double
+CRN492,[#1] XX [#2] Edwar- [#3] dus karna- [#3] vian [#4] 20,XX Edward of Caernafon 20,4,brown-double
+CRN493,[#1] Henricus,Henry,1,brown-double
+CRN494,[#1] Beatrix,Beatrix,1,brown-double
+CRN495,[#1] Blanchia,Blanche,1,brown-double
+CRN496,[#1] Elieno- [#2] ra comitissa [#3] de golda- [#4] ra,Eleanor countess of Guelders,4,brown-double
+CRN497,[#1] Johanna [#2] regina [#3] Scotie,Joan queen of Scotland,3,brown-double
+CRN498,[#1] Johannes [#2] otham co- [#3] mes cor- [#4] nubie,"John of Eltham, earl of Cornwall",4,brown-double
+CRN499,[#1] LII [sic: L] [#2] Edwardus [#3] tertius [#4] 50,LII [sic: L] Edward III 50,4,brown-double
+CRN500,[#1] Edwar- [#2] dus princeps [#3] Wallie,Edward prince of Wales,3,brown-double
+CRN501,[#1] Edwardus,Edward,1,brown-double
+CRN502,[#1] XXIII [#2] Ricardus [#3] Secundus [#4] 23,XXIII Richard II 23,4,red-double
+CRN503,[#1] Isabella [#2] comitissa de [#3] Bedford,Isabella countess of Bedford,3,brown-double
+CRN504,[#1] Johanna [#2] regina [#3] hispanie,Joan queen of Spain,3,brown-double
+CRN505,[#1] Williamus [#2] Hatfeld,William of Hatfield,2,brown-double
+CRN506,[#1] Leonel [#2] dux cla- [#3] rencie,Lionel duke of Clarence,3,brown-double
+CRN507,[#1] Philippa [#2] nupta [#3] comiti [#4] March,Philippa married to the earl of March,4,red-filled
+CRN508,[#1] Johannes [#2] dux Lan- [#3] castrie,John duke of Lancaster,3,brown-double
+CRN509,[#1] Domina [#2] Blanche [#3] prima uxor,Lady Blanche [his] first wife,3,brown-double
+CRN510,[#1] Johannes,John,1,brown-double
+CRN511,[#1] Edwar- [#2] dus,Edward,2,brown-double
+CRN512,[#1] Philippa [#2] regina por- [#3] tyngalie,Philippa queen of Portugal,3,brown-double
+CRN513,[#1] Edwardus,Edward,1,brown-double
+CRN514,[#1] Petrus,Peter,1,brown-double
+CRN515,[#1] Henricus,Henry,1,brown-double
+CRN516,[#1] Alexan- [#2] dir,Alexander,2,brown-double
+CRN517,[BLANK],[BLANK],0,brown-double
+CRN518,[#1] Elizabeth [#2] comitissa [#3] huntyngdon,Elizabeth countess of Huntingdon,3,red-filled
+CRN519,[#1] XIIII [#2] Henricus [#3] quartus [#4] 14,XIIII Henry IV 14,4,red-filled
+CRN520,[#1] Johannes,John,1,brown-double
+CRN521,[#1] Constantia [#2] 2m uxor,Constance [his] second wife,2,brown-double
+CRN522,[#1] Katrina [#2] regina [#3] hispanie,Katherine queen of Spain,3,brown-double
+CRN523,[#1] Katrina [#2] Sanfor- [#3] die 3a uxor,Katherine Swynford [his] third wife,3,brown-double
+CRN524,[#1] Johannes [#2] comes [#3] somersed,John earl of Somerset,3,brown-double
+CRN525,[#1] Comes [#2] somersed,Count of Somerset,2,brown-double
+CRN526,[#1] Thomas,Thomas,1,brown-double
+CRN527,[#1] Johannes [#2] comes [#3] somersed,John earl of Somerset,3,brown-double
+CRN528,[#1] Edmun- [#2] dus comes [#3] de mor- [#4] ten,Edmund count of Mortain,4,brown-double
+CRN529,[#1] Johanna [#2] regina [#3] Scotie,Joan queen of Scotland,3,brown-double
+CRN530,[#1] Margareta [#2] comitissa [#3] devonie,Margaret countess of Devon,4,brown-double
+CRN531,[#1] Johanna [#2] comitissa [#3] Westmor- [#4] landie,Joan countess of Westmoreland,4,brown-double
+CRN532,[BLANK],[BLANK],0,brown-double
+CRN533,[#1] Ricardus [#2] comes [#3] sarum,Richard earl of Salisbury,3,brown-double
+CRN534,[#1] Robertus [#2] episcopus [#3] Sarum,Robert bishop of Salisbury,3,brown-double
+CRN535,[BLANK],[BLANK],0,brown-double
+CRN536,[BLANK],[BLANK],0,brown-double
+CRN537,[BLANK],[BLANK],0,brown-double
+CRN538,[BLANK],[BLANK],0,brown-double
+CRN539,[#1] Henricus [#2] cardinal,Henry the cardinal,2,brown-double
+CRN540,[#1] Thomas [#2] dux ex- [#3] onie,Thomas duke of Exeter,3,brown-double
+CRN541,[#1] Edmun- [#2] dus dux [#3] eboraci [#4] langley,"Edmund of Langley, duke of York",4,brown-double
+CRN542,[#1] Edwar- [#2] dus dux [#3] eboraci,Edward duke of York,3,brown-double
+CRN543,[#1] Ricardus [#2] comes [#3] cantabri- [#4] gie,Richard earl of Cambridge,4,red-filled
+CRN544,[#1] Domina [#2] Matilda [#3] de clyfford [#4] 2m uxor,Lady Matilda of Clifford [his] second wife,4,red-filled
+CRN545,[BLANK],[BLANK],0,red-single
+CRN546,[#1] Ricardus [#2] dux eboraci [substitute est] [#3] et comes [#4] merchall,Richard duke of York [substituted as] earl of March,4,brown-double
+CRN547,[#1] Blanchia,Blanche,1,brown-double
+CRN548,[#1] Maria [#2] ducissa [#3] de britan- [#4] nie,Mary duchess of Brittany,4,brown-double
+CRN549,[#1] Margareta [#2] comitissa [#3] pembrochie,Margaret countess of Pembroke,4,brown-double
+CRN550,[#1] Willelmus [#2] Wynde- [#3] sore,William of Windsor,3,brown-double
+CRN551,[#1] Thomas [#2] dux glou- [#3] cestrie,Thomas duke of Gloucester,3,brown-double
+CRN552,[#1] Anna [#2] comitissa [#3] Staffordie,Anne countess of Stafford,3,N/A
+CRN553,[#1] Philippa,Philippa,1,brown-double
+CRN554,[#1] Comes [#2] Stafford,Earl of Stafford,2,brown-double
+CRN555,[#1] Anna [#2] comitissa [#3] huntyngdon,Anne countess of Huntingdon,3,brown-double
+CRN556,[#1] Henricus [#2] comes [#3] de Essex,Henry earl of Essex,3,brown-double
+CRN557,[#1] Williamus,William,1,brown-double
+CRN558,[#1] Thomas,Thomas,1,brown-double
+CRN559,[#1] Johannes,John,1,brown-double
+CRN560,[#1] Anna,Anne,1,brown-double
+CRN561,[#1] Margare- [#2] ta,Margaret,2,brown-double
+CRN562,[#1] Thomas [#2] dux clar- [#3] enchie,Thomas duke of Clarence,3,brown-double
+CRN563,[#1] Johannes [#2] dux bed- [#3] fordie,John duke of Bedford,3,brown-double
+CRN564,[#1] Humfridus [#2] dux glo- [#3] ucestrie,Humphrey duke of Gloucester,3,brown-double
+CRN565,[#1] Blan- [#2] chia im- [#3] peratrix,The Empress Blanche,3,brown-double
+CRN566,[#1] Philippa [#2] regina de- [#2] nmarchie,Philippa queen of Denmark,3,brown-double
+CRN567,[#1] X [#2] Henricus [#3] quintus [#4] 10,X Henry V 10,4,"[1] brown-double, [2] decorated"
+CRN568,[#1] Henricus [#2] sextus [#3] XXXIX,Henry VI XXXIX,3,red-filled
+CRN569,[#1] Hugo [#2] mortymer,Hugh de Mortimer,2,red-filled
+CRN570,[#1] Rogerus [#2] mortymer,Roger de Mortimer,2,red-filled
+CRN571,[#1] Radulphus [#2] mortymer,Ralph de Mortimer,2,red-filled
+CRN572,[#1] Rogerus [#2] mortymer,Roger Mortimer,2,red-filled
+CRN573,[#1] Edmundus [#2] mortymer,Edmund Mortimer,2,red-filled
+CRN574,[#1] Rogerus [#2] primus comes [#3] marchie,Roger first earl of March,3,red-filled
+CRN575,[#1] Edmundus [#2] comes [#3] marchie,Edmund earl of March,3,red-filled
+CRN576,[#1] Rogerus [#2] comes [#3] marchie,Roger earl of March,3,red-filled
+CRN577,[#1] Edmundus [#2] comes [#3] marchie [CRC136: nupta Philippa],Edmund earl of March [CRC136: married to Philippa],3,red-filled
+CRN578,[#1] Aliciam [sic: Elizabeth]  [#2] nupta [#3] comiti [#4] northumber- [#5] lande,Elizabeth [who] married the earl of Northumberland,5,red-filled
+CRN579,[#1] Rogerus [#2] comes [#3] march,Roger earl of March,3,red-filled
+CRN580,[#1] Rogerum [#2] secundum filium qui [#3] decesessit [sic: decessit] sine [#4] herede ante dictum [#5] Edmundum [#6] fratem suum,Roger the second son who died without heir before the named Edmund his brother,6,red-filled
+CRN581,[#1] Edmund- [#2] us comes [#3] march [#4] sine hered,Edmund earl of March without heir,4,red-filled
+CRN582,[#1] Anna [#2] nupti [#3] comiti [#4] cantabrigie,Anne [who] married the earl of Cambridge,4,red-filled
+CRN583,[#1] Elizabeth [#2] nupta domino [#3] Burghchier,Elizabeth married lord Burghchier,3,red-filled
+CRN584,[#1] Ricardum [#2] ducem ebor [#3] heredom regni [#4] anglie francie [#5] et hispanie,Richard duke of York heir of the kingdoms of England France and Spain,5,red-double decorated
+CRN585,[#1] Cecilia [#2] uxor istius [#3] Ricardi [ducis #4] Eboraci,Cecily wife of that Richard duke of York,4,red-double
+CRN586,[#1] Anna [#2] ducissa [#3] Exoniesis,Anne duchess of Exeter,3,red-double
+CRN587,[#1] Elizabeth [#2] ducissa [#3] suthfolchie,Elizabeth duchess of Suffolk,3,red-double
+CRN588,[#1] Margareta [#2] ducissa [#3] Burgundie,Margaret duchess of Burgundy,3,red-double
+CRN589,[#1] Edwardum [#2] Quartum [#3] XXIII,Edward IV XXIII,3,red-double decorated
+CRN590,[#1] Edmundus [#2] comes [#3] rothlandi,Edmund earl of Rutland,3,red-double
+CRN591,[#1] Georgius [#2] dux claren- [#3] tie,George duke of Clarence,3,red-double
+CRN592,[#1] Ricardus [#2] ducem [#3] Gloucestrie,Richard duke of Gloucester,3,red-double
+CRN593,[#1] Alicia [sic: Eleanora] que [#2] erat maritata [#3] Edwardo domino [#4] de Bonis [sic: Edward de Courtenay] qui decessit [#5] sine herede [#6] de corpore sui,Eleanor who was married to lord Edward de Bonis [sic: Edward de Courtenay] who died without heir of his body,6,red-filled
+CRN594,[#1] Comes [#2] Ultonie,Earl of Ulster,2,red-filled
+CRN595,[#1] Anna [#2] heredem [#3] Ultonie,Anne heir of Ulster,3,red-filled
+CRN596,[#1] Rex [#2] petrus [#3] hispanie,Peter king of Spain,3,red-filled
+CRN597,[#1] Constantia [#2] prima filia,Constance,2,red-filled
+CRN598,[#1] Isabella [#2] heredem [#3] hispanie,Isabella heir of Spain,3,red-filled
+CRN599,[#1] Sanctus [#2] Ludovi- [#3] cus,Saint Louis,3,brown-double
+CRN600,[#1] Philippus [#2] ejus filius,Philip his son,2,brown-double
+CRN601,[#1] Philippus [#2] pulcher,Philip the Fair,2,brown-double
+CRN602,[#1] Lodovicus [#2] hutyn,Louis the Headstrong,2,brown-double
+CRN603,[#1] Johannes [#2] posthumous,John the Posthumous,2,brown-double
+CRN604,[#1] Idem [#2] philippus,The same Philip,2,brown-double
+CRN605,[#1] Idem [#2] karolus,Charles,2,brown-double
+CRN606,[#1] Idem [#2] Johannes,The same John,2,brown-double
+CRN607,[#1] Philippus [#2] longue,Philip the Tall,2,brown-double
+CRN608,[#1] Karolus [#2] pulcher,Charles the Fair,2,brown-double
+CRN609,[#1] Isabella [#2] uxor,Isabella,2,brown-double
+CRN610,[#1] Karolus [#2] de valoys,Charles of Valois,2,brown-double
+CRN611,[#1] Johannes,John,1,brown-double
+CRN612,[#1] Rollo qui [#2] et Robertus [#3] dictus est post [#4] baptismum,Rollo who was called Robert after baptism,4,brown-double
+CRN613,[#1] Williamus [#2] longa [#3] sparta,William Longsword,3,brown-double
+CRN614,[#1] Ricardus [#2] sine timore,Richard the Fearless,2,brown-double
+CRN615,[#1] Emma,Emma,1,brown-double
+CRN616,[#1] Eadem [#2] Emma,The same Emma,2,brown-double
+CRN617,[#1] Ricardus [#2] secondus,Richard II,2,brown-double
+CRN618,[#1] Ricardus [#2] tertius,Richard III,2,brown-double
+CRN619,[#1] Frater Robertus,[His] brother Robert,2,brown-double
+CRN620,[#1] Ricardus,Richard,1,brown-double
+CRN621,[#1] Idem [#2] Robertus,The same Robert,2,brown-double
+CRN622,[#1] Willelmus [#2] nothus,William the Bastard,2,brown-double
+MARN100,[#1] Troius,Trojus,1,brown-double

@@ -1,0 +1,191 @@
+LOCATION,CRL,MARL,NAME_CR,NAME_MAR,NAME_ENGLISH,IN_ROUNDEL,IN_COMMENTARY
+L001,CRL001,N/A,Asia,N/A,Asia,N/A,CRC001
+L002,CRL002,N/A,Affrica,N/A,Africa,N/A,"CRC044, CRC030, CRC001"
+L003,CRL003,N/A,Europa,N/A,Europe,N/A,"CRC001, CRC003"
+L004,CRL004,N/A,Ataxa,N/A,Ataxa,N/A,CRC001
+L005,CRL005,N/A,Indius,N/A,India,N/A,"MARC004, CRC006, CRC001"
+L006,CRL006,N/A,Sartia,N/A,Sartia,N/A,CRC001
+L007,CRL007,N/A,Siria,N/A,Syria,N/A,CRC001
+L008,CRL008,N/A,Percia,N/A,Persia,N/A,CRC001
+L009,CRL009,N/A,Medea,N/A,Medea,N/A,CRC001
+L010,CRL010,N/A,Mesopotamia,N/A,Mesopotamia,N/A,CRC001
+L011,CRL011,N/A,Capadocia,N/A,Cappadocia,N/A,CRC001
+L012,CRL012,N/A,Palestine,N/A,Palestina,N/A,CRC001
+L013,CRL013,N/A,Armenia,N/A,Armenia,N/A,CRC001
+L014,CRL014,N/A,Cilicia,N/A,Cilicia,N/A,CRC001
+L015,CRL015,N/A,Egyptus,N/A,Egypt,N/A,CRC001
+L016,CRL016,N/A,Caldea,N/A,Calde,N/A,CRC001
+L017,CRL017,N/A,Libia,N/A,Libya,N/A,CRC001
+L018,CRL018,N/A,Lidia,N/A,Lydia,N/A,CRC001
+L019,CRL019,N/A,Smynia,N/A,Smynia,N/A,CRC001
+L020,CRL020,N/A,Pentapolis,N/A,Pentapolis,N/A,CRC001
+L021,CRL021,N/A,Ethiopia,N/A,Ethiopia,N/A,CRC001
+L022,CRL022,N/A,Tolomaia,N/A,Tolomaia,N/A,CRC001
+L023,CRL023,N/A,Lessentium,N/A,Lessentium,N/A,CRC001
+L024,CRL024,N/A,Jetall,N/A,Jetall,N/A,CRC001
+L025,CRL025,N/A,Matalia,N/A,Matalia,N/A,CRC001
+L026,CRL026,N/A,Nubidia,N/A,Numidia,N/A,CRC001
+L027,CRL027,N/A,Samartia,N/A,Samartia,N/A,CRC001
+L028,CRL028,N/A,Siirdos Maiores,N/A,Siirdos Major,N/A,CRC001
+L029,CRL029,N/A,[Siirdos] Minores,N/A,[Siirdos] Minor,N/A,CRC001
+L030,CRL030,N/A,Italia,N/A,Italy,N/A,"CRC014, CRC021, CRC010, CRC001, CRC033, CRC044"
+L031,CRL031,N/A,Calabria,N/A,Calabria,N/A,CRC001
+L032,CRL032,N/A,Hispania,N/A,Spain,N/A,"CRC124, CRC001, CRC132, CRC034"
+L033,CRL033,N/A,Almania,N/A,Almania,N/A,CRC001
+L034,CRL034,N/A,Macedonia,N/A,Macedonia,N/A,CRC001
+L035,CRL035,N/A,Tracedones,N/A,Tracedones,N/A,CRC001
+L036,CRL036,N/A,Dalmacia [Wall: Salmatia],N/A,Dalmacia,N/A,CRC001
+L037,CRL037,N/A,Pannonia,N/A,Dannonia,N/A,CRC001
+L038,CRL038,N/A,Colonia,N/A,Colonia,N/A,CRC001
+L039,CRL039,N/A,Germania,N/A,Germany,N/A,CRC001
+L040,CRL040,N/A,Gallia,N/A,Gaul,N/A,CRC001
+L041,CRL041,N/A,Britannia,N/A,Britain,N/A,"CRC081, CRC013, CRC072, CRC062, CRC066, CRC001, CRC022, CRC063, CRC030, CRC014"
+L042,CRL042,N/A,Hibernia,N/A,Hibernia,N/A,CRC001
+L043,CRL043,N/A,Septentrionalia,N/A,Septentrionalia,N/A,CRC001
+L044,CRL044,N/A,Grecia,N/A,Greece,N/A,CRC014
+L045,CRL045,N/A,Scotia,N/A,Scotland,N/A,"CRC111, CRC030, CRC098, CRC014"
+L046,CRL046,N/A,"Anglie, Engelond [CRC084]",N/A,England,N/A,"CRC129, CRC075, CRC134, CRC127, CRC073, CRC132, CRC084, CRC121, CRC131, CRC128, CRC133, CRC066"
+L047,CRL048,N/A,Norwagia,N/A,Norway,N/A,CRC072
+L048,CRL049,N/A,Francie,N/A,France,N/A,"CRC132, CRC127, CRC129, CRC131, CRC134, CRC128"
+L049,CRL051,MARL049,Troia,Troia,Troy,N/A,"CRC006, MARC004, CRC010, CRC007, MARC002, MARC001, MARC003"
+L050,CRL052,N/A,Turronis,N/A,Tours,N/A,CRC014
+L051,CRL053,N/A,Nova Troia,N/A,New Troy,N/A,CRC014
+L052,CRL054,N/A,Londonium,N/A,London,N/A,"CRC134, CRC033, CRC075, CRC053, CRC068, CRC014, CRC057, CRC121"
+L053,CRL055,N/A,Eboracum,N/A,York,N/A,"CRC018, CRC053, CRC039, CRC134, CRC123"
+L054,CRL055,N/A,Ebor[acum],N/A,York,N/A,"CRC134, CRC053, CRC123, CRC039, CRC018"
+L055,CRL056,N/A,Edinbr[u]th,N/A,Edinburgh,N/A,CRC018
+L056,CRL056,N/A,Edinbrth,N/A,Edinburgh,N/A,CRC018
+L057,CRL057,N/A,Notyngham,N/A,Nottingham,N/A,"CRC097, CRC018"
+L058,CRL057,N/A,Notyngham,N/A,Nottingham,N/A,"CRC097, CRC018"
+L059,CRL058,N/A,Karleil,N/A,Carlisle,N/A,CRC019
+L060,CRL058,N/A,Karleil,N/A,Carlisle,N/A,CRC019
+L061,CRL059,N/A,cant[uaria],N/A,Canterbury,N/A,"CRC075, CRC020"
+L062,CRL059,N/A,Cantuar[ia],N/A,Canterbury,N/A,"CRC075, CRC020"
+L063,CRL060,N/A,Wyntonia,N/A,Winchester,N/A,"CRC070, CRC079, CRC020, CRC069"
+L064,CRL060,N/A,Wynton[ia],N/A,Winchester,N/A,"CRC069, CRC079, CRC020, CRC070"
+L065,CRL061,N/A,Sephton,N/A,Shaftesbury,N/A,CRC020
+L066,CRL061,N/A,Sephton,N/A,Shaftesbury,N/A,CRC020
+L067,CRL062,N/A,Roma,N/A,Rome,N/A,"CRC081, CRC025, CRC033, CRC062, CRC072, CRC021"
+L068,CRL062,N/A,Roma,N/A,Rome,N/A,"CRC021, CRC062, CRC072, CRC033, CRC025, CRC081"
+L069,CRL063,N/A,Batonia,N/A,Bath,N/A,CRC022
+L070,CRL064,N/A,"[1] Trinovantum, [2] Ternovanter",N/A,Trinovantum,N/A,"CRC022, CRC046, CRC047"
+L071,CRL065,N/A,"[1] Leycestria, [2] Lecestrie",N/A,Leicester,N/A,"CRC063, CRC023, CRC097"
+L072,CRL066,N/A,Kaerusk,N/A,Caerleon,N/A,CRC033
+L073,CRL067,N/A,Urbs Legionum,N/A,City of Legions,N/A,"CRC033, CRC072, CRC053"
+L074,CRL068,N/A,Aclud,N/A,Dumbarton,N/A,CRC039
+L075,CRL069,N/A,Kaerlud,N/A,Kaerlud,N/A,CRC047
+L076,CRL070,N/A,Lundene,N/A,Ludene,N/A,CRC047
+L077,CRL071,N/A,Porcestr[e],N/A,Porchester,N/A,CRC050
+L078,CRL072,N/A,Hampton,N/A,Hampton,N/A,CRC050
+L079,CRL073,N/A,Claudiocest[rium],N/A,Claudiocester,N/A,CRC050
+L080,CRL074,N/A,Colocestria,N/A,Colchester,N/A,CRC059
+L081,CRL075,N/A,Constantinopoli,N/A,Constantinople,N/A,CRC060
+L082,CRL076,N/A,Aelestrem,N/A,Aylesford,N/A,CRC063
+L083,CRL077,N/A,Genorem,N/A,Genorem,N/A,"CRC070, CRC069"
+L084,CRL078,N/A,Almusbery,N/A,Almesbury,N/A,CRC071
+L085,CRL079,N/A,Men[euia],N/A,Menevia,N/A,"CRC033, CRC072"
+L086,CRL080,N/A,Roffensus,N/A,Rochester,N/A,CRC075
+L087,CRL090,N/A,Salop,N/A,Shrewsbury,N/A,CRC121
+L088,CRL092,N/A,Cester,N/A,Chester,N/A,CRC121
+L090,CRL096,N/A,Darby,N/A,Darby,N/A,CRC127
+L091,CRL097,N/A,Cantibrigie,N/A,Cambridge,N/A,CRC133
+L092,CRL098,N/A,Semaar,N/A,Shinar,N/A,CRC001
+L093,CRL099,N/A,Cornubia,N/A,Cornwall,N/A,"CRC058, CRC031, CRC071, CRC014, CRC032, CRC023, CRC072"
+L094,CRL100,N/A,Judea,N/A,Judea,N/A,CRC017
+L095,CRL101,N/A,Saxonia,N/A,Saxony,N/A,"CRC063, CRC044, CRC066, CRC068"
+L096,CRL102,N/A,Westsex,N/A,Wessex,N/A,"CRC063, CRC072, CRC079"
+L097,CRL103,N/A,Midilsex,N/A,Middlesex,N/A,CRC063
+L098,CRL104,N/A,Vasconia,N/A,Gascony,N/A,CRC072
+L099,CRL111,N/A,Castella et Legiones,N/A,Castile and León,N/A,"CRC132, CRC134, CRC133, CRC123"
+L100,CRL112,N/A,Ultonia,N/A,Ulster,CRN595,CRC133
+L101,CRL113,N/A,Northumberland,N/A,Northumberland,CRN578,CRC133
+L102,CRL114,N/A,Kambria,N/A,Cambria,N/A,"CRC032, CRC033, CRC025, CRC014, CRC031"
+L103,CRL115,N/A,Morgan,N/A,Morgan,N/A,CRC025
+L104,CRL116,N/A,Loygaria,N/A,Loygaria,N/A,CRC014
+L105,CRL117,N/A,Loyga / Loegria,N/A,Loegria,N/A,"CRC050, CRC031, CRC032"
+L106,CRL118,N/A,Wallia,N/A,Wales,N/A,"CRC126, CRC125, CRC014, CRC121"
+L107,CRL120,N/A,Alba,N/A,Albanum,N/A,"CRC051, CRC031, CRC055, CRC032, CRC023, CRC030"
+L108,CRL121,N/A,Babilonia,N/A,Babylon,N/A,CRC001
+L109,CRL122,N/A,Creta,N/A,Crete,N/A,CRC004
+L110,CRL123,N/A,Leogecia,N/A,Leogecia,N/A,CRC014
+L111,CRL124,N/A,insula Vecta,N/A,Isle of Wight,N/A,CRC079
+L112,CRL125,N/A,Anglesya,N/A,Anglesea,N/A,CRC121
+L113,CRL127,N/A,Albion,N/A,Albion,N/A,CRC014
+L114,CRL129,N/A,Atlantis,N/A,Atlantis,N/A,CRC005
+L115,CRL130,N/A,Frigia,N/A,Phrygia,N/A,"MARC004, CRC006"
+L116,CRL131,N/A,Dardanus,N/A,Dardanus,N/A,"MARC004, CRC006"
+L117,CRL132,N/A,Alba,N/A,Alba,N/A,CRC011
+L118,CRL133,N/A,Sicadem,N/A,Sicadem,N/A,CRC014
+L119,CRL134,N/A,Ilirico,N/A,Illyria,N/A,CRC014
+L120,CRL135,N/A,Hispania Waschensia,N/A,Spanish Gascony,N/A,CRC030
+L121,CRL136,N/A,Suthampton,N/A,Southampton,N/A,CRC033
+L122,CRL137,N/A,Catheneis,N/A,Caithness,N/A,"CRC033, CRC051"
+L123,CRL138,N/A,Demetia,N/A,"Demetia [refers to an area in South Wales, in Welsh‚ Dyfed]",N/A,CRC050
+L124,CRL139,N/A,Westmarina,N/A,Westmoreland,N/A,CRC051
+L127,CRL142,N/A,Armoricus,N/A,Armoricus,N/A,CRC062
+L128,CRL144,N/A,Kantia,N/A,Kent,CRN054,"CRC075, CRC063, CRC074, CRC068"
+L129,CRL145,N/A,Est Anglia,N/A,East Anglia,CRN062,CRC063
+L130,CRL146,N/A,South Sexia,N/A,Sussex,CRN090,CRC063
+L131,CRL147,N/A,Est Sexia,N/A,Essex,CRN080,"CRC095, CRC063"
+L132,CRL148,N/A,Northumbria,N/A,Northumbria,CRN071,"CRC082, CRC063"
+L133,CRL149,N/A,Merciorum,N/A,[Kingdom of the] Mercians,CRN072,CRC063
+L134,CRL150,N/A,Lyncoln’,N/A,Lincoln,N/A,"CRC097, CRC063, CRC114, CRC055"
+L135,CRL152,N/A,Northhampton,N/A,Northampton,N/A,CRC063
+L136,CRL153,N/A,Huntyngdon,N/A,Huntington,N/A,CRC063
+L137,CRL154,N/A,Herford,N/A,Hereford,N/A,CRC063
+L138,CRL155,N/A,Bokyngham,N/A,Buckingham,N/A,CRC063
+L139,CRL156,N/A,Oxonia,N/A,Oxford,N/A,CRC063
+L140,CRL157,N/A,Gloucestria,N/A,Gloucester,N/A,CRC063
+L141,CRL158,N/A,Wigorn[iensis],N/A,Worcester,N/A,CRC063
+L142,CRL159,N/A,Walrwyk,N/A,Warwick,N/A,CRC063
+L143,CRL160,N/A,Jutha,N/A,Jute,N/A,"CRC063, CRC066"
+L144,CRL161,N/A,Anglus,N/A,Anglia,N/A,CRC063
+L145,CRL162,N/A,Tanecastria,N/A,Tanecastria,N/A,CRC068
+L146,CRL163,N/A,Ambresburia,N/A,Amesbury,N/A,CRC068
+L147,CRL164,N/A,Ergni,N/A,Ergni,N/A,"CRC069, CRC070"
+L148,CRL165,N/A,Verulamium,N/A,Verulamium,N/A,CRC071
+L149,CRL166,N/A,Osland,N/A,Osland,N/A,CRC072
+L150,CRL167,N/A,Goodland,N/A,Goodland,N/A,CRC072
+L151,CRL168,N/A,Orcad,N/A,Orkney,N/A,CRC072
+L152,CRL169,N/A,Dacia,N/A,Dacia,N/A,CRC072
+L153,CRL170,N/A,Gallia Acquitannia,N/A,Septentrional Gaul,N/A,CRC072
+L154,CRL171,N/A,Loegaria,N/A,Loegaria,N/A,CRC073
+L155,CRL177,N/A,Austrius,N/A,Austrasia,N/A,CRC066
+L156,CRL178,N/A,turris Babel,N/A,Tower of Babel,N/A,CRC001
+L157,CRL179,N/A,Arae Philistinorum,N/A,Altars of the Philistines,N/A,CRC014
+L158,CRL180,N/A,Puellarum Castellus,N/A,Castle of Maidens,N/A,CRC018
+L159,CRL181,N/A,templum Domini,N/A,Temple of the Lord,N/A,CRC019
+L160,CRL182,N/A,templum Apolinis,N/A,Temple of Apollo,N/A,CRC022
+L161,CRL183,N/A,Antichena,N/A,Antioch,N/A,CRC050
+L162,CRL184,N/A,Chorea Gigantum,N/A,Giants' Dance,N/A,"CRC070, CRC069"
+L163,CRL185,N/A,abbathia Sancti Augustini,N/A,Abbey of St Augustine,N/A,CRC075
+L164,CRL186,N/A,Taunton,N/A,Taunton,N/A,CRC080
+L165,CRL207,N/A,castrum de Flint,N/A,Flint Castle,N/A,CRC121
+L166,CRL208,N/A,castrum de Rocheland,N/A,Rhuddlan Castle,N/A,CRC121
+L167,CRL209,N/A,Bellum Mariscum,N/A,Beaumaris,N/A,CRC121
+L168,CRL211,N/A,Belyngysgate,N/A,Billingsgate,N/A,CRC033
+L169,CRL212,N/A,Ludgate,N/A,Ludgate,N/A,CRC047
+L170,CRL213,N/A,Tiberius,N/A,Tiber,N/A,CRC011
+L171,CRL214,N/A,Grecia mare,N/A,Greek sea,N/A,CRC014
+L172,CRL215,N/A,Montes Agaric,N/A,Mountains of Agarie,N/A,CRC014
+L173,CRL216,N/A,Sabrina,N/A,River Severn,N/A,CRC018
+L174,CRL217,N/A,Mons Dolorsus,N/A,Mount Dolorosus,N/A,CRC018
+L175,CRL218,N/A,Soar,N/A,River Soar,N/A,CRC023
+L176,CRL219,N/A,Mare Rubrum,N/A,Red Sea,N/A,CRC030
+L177,CRL220,N/A,Ybon,N/A,River Ebro,N/A,CRC030
+L179,CRL222,N/A,Cornubi mare,N/A,Cornish sea,N/A,CRC033
+L180,CRL223,N/A,occeanus Britanicum,N/A,British ocean,N/A,CRC044
+L181,CRL224,N/A,Septemtrionalis [axis],N/A,North Pole,N/A,CRC044
+L182,CRL225,N/A,Montes Ererii,N/A,Mountains of Eriri,N/A,CRC068
+L183,CRL226,N/A,Flumen Waye,N/A,River Wye,N/A,"CRC070, CRC069"
+L184,CRL227,N/A,Mons Cloart,N/A,Mount Doartius,N/A,"CRC069, CRC070"
+L185,CRL228,N/A,Montes Kyldarne,N/A,Mountains of Kildare,N/A,"CRC070, CRC069"
+L186,CRL229,N/A,Mons Ambri,N/A,Mount Ambri,N/A,"CRC069, CRC070"
+L187,CRL232,N/A,Humber,N/A,Humber,N/A,"CRC031, CRC013, CRC014"
+L188,CRL233,N/A,Collebrok,N/A,Collebrok,N/A,CRC057
+L189,CRL234,N/A,Cipre,N/A,Cyprus,N/A,CRC004
+L191,CRL236,N/A,"[1] Glastinbery, [2] Glasto’",N/A,Glastonbury,N/A,"CRC100, CRC104, CRC072, CRC097"
+L192,CRL238,N/A,Armoric,N/A,Armorica,N/A,CRC067
+L193,CRL239,N/A,Ryvall,N/A,Rievaulx,N/A,CRC044
+L194,CRL245,N/A,Gaunt’,N/A,Gaunt,N/A,"CRC118, CRC127"
+L195,CRL300,N/A,Derby,N/A,Derby,N/A,CRC097

@@ -1,0 +1,774 @@
+PERSON,CRP,MARP,NAME_CR,NAME_MAR,NAME_ENGLISH,IN_ROUNDEL,IN_COMMENTARY,COMMENT
+P001,CRP005,N/A,[Noah],Noe,Noah,CRN001,"CRC001, CRC003",N/A
+P002,CRP006,N/A,Sem,N/A,Shem,CRN002,CRC001,N/A
+P003,CRP007,N/A,Cham,N/A,Ham,CRN003,"CRC001, CRC003, CRC002",N/A
+P004,CRP008,N/A,Chus,N/A,Cush,CRN004,N/A,N/A
+P005,CRP009,N/A,Nemroth,N/A,Nimrod,CRN005,CRC001,N/A
+P006,CRP010,N/A,Japhet,N/A,Japhet,CRN006,"CRC003, CRC002, CRC001",N/A
+P007,CRP011,N/A,Strephus,N/A,Strephus,CRN007,CRC002,N/A
+P008,CRP012,N/A,Bedegius,N/A,Bedegius,CRN008,N/A,N/A
+P009,CRP013,N/A,Gnala,N/A,Gnala,CRN009,N/A,N/A
+P010,CRP014,N/A,Kadra,N/A,Kadra,CRN010,N/A,N/A
+P011,CRP015,N/A,Sternodius,N/A,Sternodius,CRN011,N/A,N/A
+P012,CRP016,N/A,Steph,N/A,Steph,CRN012,N/A,N/A
+P013,CRP017,N/A,Steldius,N/A,Steldius,CRN013,CRC009,N/A
+P014,CRP018,N/A,Boerinus,N/A,Boerin,CRN014,"CRC015, CRC009",N/A
+P015,CRP019,N/A,Cinrincius,N/A,Cinrincius,CRN015,CRC015,N/A
+P016,CRP020,N/A,Gothus,N/A,Gothus,CRN016,CRC015,N/A
+P017,CRP021,N/A,Iutus,N/A,Jutus,CRN017,CRC015,N/A
+P018,CRP022,N/A,Wandalus,N/A,Vandalus,CRN018,CRC015,N/A
+P019,CRP023,N/A,Thetus,N/A,Thetus,CRN019,CRC015,N/A
+P020,CRP024,N/A,Fresus,N/A,Fresus,CRN020,CRC015,N/A
+P021,CRP025,N/A,Suethedus,N/A,Suethedus,CRN021,CRC015,N/A
+P022,CRP026,N/A,Dachus,N/A,Dachus,CRN022,CRC015,N/A
+P023,CRP027,N/A,Geate,N/A,Geate,CRN023,CRC015,N/A
+P024,CRP028,N/A,Godulphus,N/A,Godulphus,CRN024,CRC015,N/A
+P025,CRP029,N/A,Finnius,N/A,Finnius,CRN025,N/A,N/A
+P026,CRP030,N/A,Fridalasius,N/A,Fridalasius,CRN026,N/A,N/A
+P027,CRP031,N/A,Fridewaldus,N/A,Fridewaldus,CRN027,N/A,N/A
+P028,CRP032,N/A,Godenus,N/A,Godenus,CRN028,N/A,N/A
+P029,CRP033,N/A,Beldegius,N/A,Beldegius,CRN029,N/A,N/A
+P030,CRP034,N/A,Beymundus,N/A,Beymundus,CRN030,N/A,N/A
+P031,CRP035,N/A,Fridegarius,N/A,Fridegarius,CRN031,N/A,N/A
+P032,CRP036,N/A,Fridewynus,N/A,Fridewynus,CRN032,N/A,N/A
+P033,CRP037,N/A,Winegius,N/A,Winegius,CRN033,N/A,N/A
+P034,CRP038,N/A,Gywis,N/A,Gywis,CRN034,N/A,N/A
+P035,CRP039,N/A,Eslius,N/A,Eslius,CRN035,N/A,N/A
+P036,CRP040,N/A,Elesius,N/A,Elesius,CRN036,N/A,N/A
+P037,CRP041,N/A,Cerdius,N/A,Cerdius,CRN037,N/A,N/A
+P038,CRP042,N/A,Cealinus,N/A,Cealinus,CRN038,CRC044,N/A
+P039,CRP043,N/A,Guda,N/A,Guda,CRN039,N/A,N/A
+P040,CRP044,N/A,Gewaldus,N/A,Gewaldus,CRN040,N/A,N/A
+P041,CRP045,N/A,Kenardus,N/A,Kenardus,CRN041,N/A,N/A
+P042,CRP046,N/A,Ingils,N/A,Ingils,CRN042,N/A,N/A
+P043,CRP047,N/A,Orpa,N/A,Orpa,CRN043,N/A,N/A
+P044,CRP048,N/A,Caphe,N/A,Caphe,CRN044,N/A,N/A
+P045,CRP049,N/A,Jetha,N/A,Jetha,CRN045,CRC052,N/A
+P046,CRP050,N/A,Flocwall,N/A,Flocwall,CRN046,N/A,N/A
+P047,CRP465,N/A,Flocwall,N/A,Flocwall,CRN046,N/A,N/A
+P048,CRP051,N/A,Fynn,N/A,Fynn,CRN047,N/A,N/A
+P049,CRP052,N/A,Fredulf,N/A,Fredulf,CRN048,N/A,N/A
+P050,CRP053,N/A,Woden,N/A,Woden,CRN049,"CRC083, CRC065",N/A
+P051,CRP054,N/A,Frealaf,N/A,Frealaff,CRN050,CRC065,N/A
+P052,CRP055,N/A,Vecta,N/A,Vecta,CRN051,N/A,N/A
+P053,CRP056,N/A,Victa,N/A,Victa,CRN052,N/A,N/A
+P054,CRP057,N/A,Widgils,N/A,Widgils,CRN053,N/A,N/A
+P055,CRP058,N/A,Rivallo,N/A,Riwallo,CRN199,N/A,N/A
+P056,CRP059,N/A,Wepedag,N/A,Wepedag,CRN055,N/A,N/A
+P057,CRP060,N/A,Sigegeag,N/A,Sigegeag,CRN056,N/A,N/A
+P058,CRP061,N/A,Seablad,N/A,Seablad,CRN057,N/A,N/A
+P059,CRP062,N/A,Sesugill,N/A,Sesugill,CRN058,N/A,N/A
+P060,CRP063,N/A,Westreflacna,N/A,Westreflacna,CRN059,N/A,N/A
+P061,CRP064,N/A,Witgils,N/A,Witgils,CRN060,N/A,N/A
+P062,CRP065,N/A,Uskfrea,N/A,Uskfrea,CRN061,N/A,N/A
+P063,CRP066,N/A,Molimitius,N/A,Mumultius,CRN206,CRC031,N/A
+P064,CRP067,N/A,Widat,N/A,Widat,CRN063,N/A,N/A
+P065,CRP068,N/A,Weremund,N/A,Weremund,CRN064,N/A,N/A
+P066,CRP069,N/A,Offa,N/A,Offa,CRN065,CRC063,N/A
+P067,CRP070,N/A,Angelthen,N/A,Angelthen,CRN066,N/A,N/A
+P068,CRP071,N/A,Comer,N/A,Comer,CRN067,N/A,N/A
+P069,CRP072,N/A,Yall,N/A,Yall,CRN068,N/A,N/A
+P070,CRP073,N/A,Kniwa,N/A,Kniwa,CRN069,N/A,N/A
+P071,CRP074,N/A,Singwald,N/A,Singwald,CRN070,N/A,N/A
+P072,CRP075,N/A,Ostha,N/A,Ostha,CRN289,N/A,N/A
+P073,CRP076,N/A,Wibert,N/A,Wibert,CRN299,N/A,N/A
+P074,CRP077,N/A,Saxnad,N/A,Saxony,CRN073,N/A,N/A
+P075,CRP078,N/A,Andesk,N/A,Andesk,CRN074,N/A,N/A
+P076,CRP079,N/A,Gefat,N/A,Gefat,CRN075,N/A,N/A
+P077,CRP080,N/A,Spezwe,N/A,Spezwe,CRN076,N/A,N/A
+P078,CRP081,N/A,Sigewolf,N/A,Sigewolf,CRN077,N/A,N/A
+P079,CRP082,N/A,Reidkan,N/A,Reidkan,CRN078,N/A,N/A
+P080,CRP083,N/A,Offe,N/A,Offe,CRN079,N/A,N/A
+P081,CRP084,N/A,Uffa,N/A,Uffa,CRN307,N/A,N/A
+P082,CRP085,N/A,Beldec,N/A,Beldec,CRN081,N/A,N/A
+P083,CRP086,N/A,Brand,N/A,Brand,CRN082,N/A,N/A
+P084,CRP087,N/A,Beonok,N/A,Benok,CRN083,N/A,N/A
+P085,CRP088,N/A,Alek,N/A,Alek,CRN084,N/A,N/A
+P086,CRP089,N/A,Angenwyt,N/A,Angenwyt,CRN085,N/A,N/A
+P087,CRP090,N/A,Ingwyn,N/A,Ingwyn,CRN086,N/A,N/A
+P088,CRP091,N/A,Esee,N/A,Esee,CRN087,N/A,N/A
+P089,CRP092,N/A,Gorpe,N/A,Gorpe,CRN088,N/A,N/A
+P090,CRP093,N/A,Sawl,N/A,Samuil,CRN248,N/A,N/A
+P091,CRP094,N/A,Geatha,N/A,Geatha,CRN045,N/A,N/A
+P092,CRP095,N/A,Jenan vel Janan,N/A,Jenan or Janan,CRN091,"CRC002, CRC001",N/A
+P093,CRP096,N/A,Cethnius,N/A,Cethis,CRN092,CRC001,N/A
+P094,CRP097,N/A,Ciprius,N/A,Cyprus,CRN093,"CRC001, CRC004",N/A
+P095,CRP098,N/A,Cretus,N/A,Cretus,CRN094,"CRC004, CRC001",N/A
+P096,CRP099,N/A,Celinus,N/A,Celius,CRN095,CRC001,N/A
+P097,CRP100,N/A,Saturnus,N/A,Saturn,CRN096,CRC001,N/A
+P098,CRP101,N/A,Jupiter,N/A,Jupiter,CRN097,"CRC001, CRC005",N/A
+P099,CRP102,N/A,Dardanus,N/A,Dardanus,CRN098,"CRC001, MARC004, CRC006, CRC005",N/A
+P100,CRP103,N/A,Erictonius,N/A,Erictonius,CRN099,"CRC006, MARC004",N/A
+P101,CRP104,MARP104,Troius,Troius,Trojus,"MARN100, CRN100","MARC002, CRC006, MARC001, MARC003, CRC007, MARC004",N/A
+P102,CRP105,N/A,Ilius,N/A,Ilus,CRN101,"CRC010, CRC007, MARC001",N/A
+P103,CRP106,N/A,Lamedon,N/A,Lamedon,CRN105,N/A,N/A
+P104,CRP107,N/A,Priamus,N/A,Priam,CRN102,N/A,N/A
+P105,CRP108,N/A,Hector,N/A,Hector,CRN103,N/A,N/A
+P106,CRP109,N/A,Assaracus,N/A,Assaracus,CRN104,"CRC007, MARC001",N/A
+P107,CRP110,N/A,Capis,N/A,Capis,CRN106,N/A,N/A
+P108,CRP111,N/A,Anchises,N/A,Anchises,CRN107,CRC008,N/A
+P109,CRP112,N/A,Eneas,N/A,Aeneas,CRN108,"CRC008, CRC010, CRC021",N/A
+P110,CRP113,N/A,Silvius posthumus,N/A,Silvius Posthumous,CRN109,CRC010,N/A
+P111,CRP114,N/A,Latinus,N/A,Latinus,CRN110,CRC010,N/A
+P112,CRP115,N/A,Alban,N/A,Alban,CRN111,N/A,N/A
+P113,CRP116,N/A,Romulus,N/A,Remus,CRN112,CRC025,N/A
+P114,CRP117,N/A,Ascanius,N/A,Ascanius,CRN113,"CRC011, CRC010",N/A
+P115,CRP118,N/A,Silvius,N/A,Silvius,CRN114,"CRC012, CRC010",N/A
+P116,CRP119,N/A,Brutus,N/A,Brutus,CRN115,"CRC010, CRC030, CRC012, CRC018, CRC014, CRC081",N/A
+P117,CRP120,N/A,Albanactus,N/A,Albanactus,CRN116,"CRC030, CRC014, CRC013",N/A
+P118,CRP121,N/A,Kambrius,N/A,Cambrius,CRN117,CRC014,N/A
+P119,CRP122,N/A,Gormoniaun,N/A,Gormoniaun,CRN118,N/A,N/A
+P120,CRP123,N/A,Dunwalheon,N/A,Dunwalheon,CRN119,N/A,N/A
+P121,CRP124,N/A,Morganus,N/A,Morgan,CRN120,N/A,N/A
+P122,CRP125,N/A,Belymaure,N/A,Belymaure,CRN121,N/A,N/A
+P123,CRP126,N/A,Lud,N/A,Lud,CRN122,CRC047,N/A
+P124,CRP127,N/A,Aveleth,N/A,Aveleth,CRN123,N/A,N/A
+P125,CRP128,N/A,Avelath,N/A,Avelath,CRN124,N/A,N/A
+P126,CRP129,N/A,Eudolen,N/A,Eudolen,CRN125,N/A,N/A
+P127,CRP130,N/A,Eudos,N/A,Eudos,CRN126,N/A,N/A
+P128,CRP131,N/A,Cunic,N/A,Cunic,CRN127,N/A,N/A
+P129,CRP132,N/A,Gudeyrn,N/A,Gudeyrn,CRN128,N/A,N/A
+P130,CRP133,N/A,Rydern,N/A,Rydern,CRN129,N/A,N/A
+P131,CRP134,N/A,Grade,N/A,Grade,CRN130,N/A,N/A
+P132,CRP135,N/A,Urban,N/A,Urban,CRN131,N/A,N/A
+P133,CRP136,N/A,Tyntyll,N/A,Tyntyll,CRN132,N/A,N/A
+P134,CRP137,N/A,Dehewynt,N/A,Dehewynt,CRN133,N/A,N/A
+P135,CRP138,N/A,Tecuan,N/A,Tecuan,CRN134,N/A,N/A
+P136,CRP139,N/A,Choyl Godabanc,N/A,Choyn Godabanc,CRN135,N/A,N/A
+P137,CRP140,N/A,Kenen,N/A,Kenen,CRN136,N/A,N/A
+P138,CRP141,N/A,Padern paysruth,N/A,Padern paysruth,CRN137,N/A,N/A
+P139,CRP142,N/A,Gedeyn,N/A,Gedeyn,CRN138,N/A,N/A
+P140,CRP143,N/A,Cunnedarledic,N/A,Cunn edarledic,CRN139,N/A,N/A
+P141,CRP144,N/A,Eynann Yrth,N/A,Eynann Yrth,CRN140,N/A,N/A
+P142,CRP145,N/A,Kadwallauhyr,N/A,Kadwallauhyr,CRN141,N/A,N/A
+P143,CRP146,N/A,Maylgo,N/A,Malgo,CRN142,N/A,N/A
+P144,CRP147,N/A,Maylgo Magnus,N/A,Malgo the Great,CRN143,N/A,N/A
+P145,CRP148,N/A,Eynann,N/A,Eynann,CRN176,N/A,N/A
+P146,CRP149,N/A,Run,N/A,Run,CRN145,N/A,N/A
+P147,CRP150,N/A,Bely,N/A,Bely,CRN146,N/A,N/A
+P148,CRP151,N/A,Yago,N/A,Iago,CRN202,N/A,N/A
+P149,CRP152,N/A,Kadwanus,N/A,Kadwanus,CRN148,N/A,N/A
+P150,CRP153,N/A,Kadwallo,N/A,Kadwallo,CRN149,N/A,N/A
+P151,CRP154,N/A,Kadwaladrus,N/A,Kadwaladrus,CRN150,N/A,N/A
+P152,CRP155,N/A,Inorus,N/A,Inorus,CRN151,CRC029,N/A
+P153,CRP156,N/A,Ym,N/A,Ym,CRN152,N/A,N/A
+P154,CRP157,N/A,Idwall Iurth,N/A,Idwall Iurth,CRN153,N/A,N/A
+P155,CRP158,N/A,Rodri malitinant,N/A,Rhodri Molwynog,CRN154,CRC081,N/A
+P156,CRP159,N/A,Kanaan dyndeythos,N/A,Kanaan dyndeythos,CRN155,N/A,N/A
+P157,CRP160,N/A,Dechild,N/A,Dechild,CRN156,CRC092,N/A
+P158,CRP161,N/A,Mernembreth,N/A,Mernem breth,CRN157,N/A,N/A
+P159,CRP162,N/A,Bodrivaur,N/A,Bodrivaur,CRN158,N/A,N/A
+P160,CRP163,N/A,Anarand,N/A,Anarand,CRN159,N/A,N/A
+P161,CRP164,N/A,Idwall voyll,N/A,Idwal voyll,CRN160,N/A,N/A
+P162,CRP165,N/A,Menrit,N/A,Menrit,CRN161,N/A,N/A
+P163,CRP166,N/A,Idwall,N/A,Idwal,CRN162,N/A,N/A
+P164,CRP167,N/A,Yago,N/A,Iago,CRN202,N/A,N/A
+P165,CRP168,N/A,Kanaan,N/A,Kanaan,CRN164,N/A,N/A
+P166,CRP169,N/A,Griffinus,N/A,Gruffinus,CRN165,N/A,N/A
+P167,CRP170,N/A,Yerwede,N/A,Yerwede,CRN166,N/A,N/A
+P168,CRP171,N/A,Lewelinus,N/A,Llewelyn,CRN167,N/A,N/A
+P169,CRP172,N/A,Gruffrius,N/A,Gruffrius,CRN168,N/A,N/A
+P170,CRP173,N/A,Oweyngoth,N/A,Oweyngoth,CRN169,N/A,N/A
+P171,CRP174,N/A,Lewilinus,N/A,Llewelyn,CRN170,N/A,N/A
+P172,CRP175,N/A,David,N/A,David,CRN171,"CRC121, CRC126",N/A
+P173,CRP176,N/A,Rodri,N/A,Rodri,CRN172,N/A,N/A
+P174,CRP177,N/A,Radell,N/A,Radell,CRN173,N/A,N/A
+P175,CRP178,N/A,Howellda,N/A,Howellda,CRN174,N/A,N/A
+P176,CRP179,N/A,Owynus,N/A,Owen,CRN175,N/A,N/A
+P177,CRP180,N/A,Eynann,N/A,Eynann,CRN176,N/A,N/A
+P178,CRP181,N/A,Kadell,N/A,Kadell,CRN177,N/A,N/A
+P179,CRP182,N/A,Resus,N/A,Resus,CRN184,N/A,N/A
+P180,CRP183,N/A,Gruffinus,N/A,Gruffninus,CRN179,N/A,N/A
+P181,CRP184,N/A,Resus maure,N/A,Resus the Moor,CRN180,N/A,N/A
+P182,CRP185,N/A,Resus,N/A,Resus,CRN184,N/A,N/A
+P183,CRP186,N/A,Mereduth,N/A,Mereduth,"CRN183, CRN182",N/A,N/A
+P184,CRP188,N/A,Resus,N/A,Resus,CRN184,N/A,N/A
+P185,CRP189,N/A,Locrinus,N/A,Locrinus,CRN185,"CRC013, CRC014",N/A
+P186,CRP190,N/A,Maddan,N/A,Maddan,CRN186,CRC016,N/A
+P187,CRP191,N/A,Mempricius,N/A,Mempricius,CRN187,CRC017,N/A
+P188,CRP192,N/A,Ebrancus,N/A,Ebraucus,CRN188,CRC018,N/A
+P189,CRP193,N/A,Brutus viridescutum,N/A,Brutus Greenshield,CRN189,N/A,N/A
+P190,CRP194,N/A,Leyl,N/A,Leil,CRN190,CRC019,N/A
+P191,CRP195,N/A,Runhyrbras,N/A,Rud Hud Hudibras,CRN191,CRC020,N/A
+P192,CRP196,N/A,Bladuth,N/A,Bladud,CRN192,CRC022,N/A
+P193,CRP197,N/A,Leyr,N/A,Lear,CRN193,"CRC023, CRC024",N/A
+P194,CRP198,N/A,Gnarilla,N/A,Gonarilla,CRN194,CRC023,N/A
+P195,CRP199,N/A,Morganus,N/A,Morgan,CRN195,"CRC025, CRC024",N/A
+P196,CRP200,N/A,Cordella,N/A,Cordelia,CRN196,"CRC023, CRC024",N/A
+P197,CRP201,N/A,Regan,N/A,Regan,CRN197,CRC023,N/A
+P198,CRP202,N/A,Cunedagius,N/A,Cunedag,CRN198,"CRC024, CRC025",N/A
+P199,CRP203,N/A,Rutlan,N/A,Rutlan,CRN199,CRC026,N/A
+P200,CRP204,N/A,Gurgustus,N/A,Gurgustius,CRN200,"CRC027, CRC029",N/A
+P201,CRP205,N/A,Sisillius,N/A,Sisillius,CRN211,CRC028,N/A
+P202,CRP206,N/A,Yago,N/A,Iago,CRN202,N/A,N/A
+P203,CRP207,N/A,Kymarcus,N/A,Kimarcus,CRN203,N/A,N/A
+P204,CRP208,N/A,Gorbodugo,N/A,Gorboduc,CRN204,CRC121,[CRC121?]
+P205,CRP209,N/A,Porrex,N/A,Porrex,CRN205,CRC031,N/A
+P206,CRP210,N/A,Dunwallo,N/A,Dunwallo,CRN206,"CRC032, CRC031",N/A
+P207,CRP211,N/A,Brenius,N/A,Brennius,CRN207,CRC033,N/A
+P208,CRP212,N/A,Belinus,N/A,Belinus,CRN208,CRC033,N/A
+P209,CRP213,N/A,Gurgwynt bartrut,N/A,Gurgiunt Barbtruc,CRN209,"CRC030, CRC034",N/A
+P210,CRP214,N/A,Guthelinus,N/A,Guithelin,CRN210,"CRC033, CRC035",N/A
+P211,CRP215,N/A,Sisillius,N/A,Sisillius,CRN211,N/A,N/A
+P212,CRP216,N/A,Kymarus,N/A,Kinarius,CRN212,N/A,N/A
+P213,CRP217,N/A,Danius,N/A,Danius,CRN213,CRC036,N/A
+P214,CRP218,N/A,Morwidus,N/A,Morvidus,CRN214,CRC037,N/A
+P215,CRP219,N/A,Gorbonianus,N/A,Gorbonianus,CRN215,N/A,N/A
+P216,CRP220,N/A,Archigallo,N/A,Arthgallo,CRN216,"CRC039, CRC038",N/A
+P217,CRP221,N/A,Elidurus pius,N/A,Elidur the pious,CRN217,"CRC038, CRC039",N/A
+P218,CRP222,N/A,Peredurus,N/A,Peredur,CRN218,"CRC040, CRC038",N/A
+P219,CRP223,N/A,Vigenius,N/A,Vigenius,CRN219,"CRC040, CRC038",N/A
+P220,CRP224,N/A,Regyn,N/A,Regyn,CRN220,N/A,N/A
+P221,CRP225,N/A,Morganus,N/A,Morgan,CRN221,N/A,N/A
+P222,CRP226,N/A,Eynaun,N/A,Ennianus,CRN222,CRC041,N/A
+P223,CRP227,N/A,Idwall,N/A,Idwal,CRN223,"CRC041, CRC042",N/A
+P224,CRP228,N/A,Rim,N/A,Rhun,CRN224,N/A,N/A
+P225,CRP229,N/A,Geroncius,N/A,Geraint,CRN225,N/A,N/A
+P226,CRP230,N/A,Catell,N/A,Kadell,CRN226,N/A,N/A
+P227,CRP231,N/A,Choyll,N/A,Coel,CRN227,N/A,N/A
+P228,CRP232,N/A,Porrex,N/A,Porrex,CRN228,N/A,N/A
+P229,CRP233,N/A,Cheryn,N/A,Cherin,CRN229,N/A,N/A
+P230,CRP234,N/A,Fulgentius,N/A,Fulgenius,CRN230,CRC043,N/A
+P231,CRP235,N/A,Androgius,N/A,Andragius,CRN231,CRC043,N/A
+P232,CRP236,N/A,Eldadus,N/A,Edadus,CRN232,CRC043,N/A
+P233,CRP237,N/A,Vrianus,N/A,Urianus,CRN233,N/A,N/A
+P234,CRP238,N/A,Eliud,N/A,Eliud,CRN234,N/A,N/A
+P235,CRP239,N/A,Cledancus,N/A,Cledauc,CRN235,N/A,N/A
+P236,CRP240,N/A,Clotenus,N/A,Cloten,CRN236,N/A,N/A
+P237,CRP241,N/A,Gurguntius,N/A,Gurguint,CRN237,N/A,N/A
+P238,CRP242,N/A,Merianus,N/A,Merianus,CRN238,N/A,N/A
+P239,CRP243,N/A,Blethinus,N/A,Bledud,CRN239,N/A,N/A
+P240,CRP244,N/A,Caap,N/A,Cap,CRN240,N/A,N/A
+P241,CRP245,N/A,Cenus,N/A,Oenus,CRN241,N/A,N/A
+P242,CRP246,N/A,Sisillius,N/A,Sisillius,CRN242,N/A,N/A
+P243,CRP247,N/A,Archinayll,N/A,Arthmail,CRN243,N/A,N/A
+P244,CRP248,N/A,Bledgabred,N/A,Bledgabred,CRN244,CRC045,N/A
+P245,CRP249,N/A,Eldol,N/A,Eldol,CRN245,CRC046,N/A
+P246,CRP250,N/A,Rodyon,N/A,Redion,CRN246,N/A,N/A
+P247,CRP251,N/A,Rydergius,N/A,Redech,CRN247,N/A,N/A
+P248,CRP252,N/A,Pemsell,N/A,Penissel,CRN093,N/A,N/A
+P249,CRP253,N/A,Pyr,N/A,Pir,CRN249,N/A,N/A
+P250,CRP254,N/A,Capoyr,N/A,Capoir,CRN250,N/A,N/A
+P251,CRP255,N/A,Diwellius,N/A,Cligueillius,CRN251,N/A,N/A
+P252,CRP256,N/A,Ely,N/A,Heli,CRN252,N/A,N/A
+P253,CRP257,N/A,Lud,N/A,Lud,CRN253,CRC047,N/A
+P254,CRP258,N/A,Nennius,N/A,Nennius,CRN254,CRC048,N/A
+P255,CRP259,N/A,Cassibelianus,N/A,Cassibelaunus,CRN255,"CRC047, CRC042, CRC046",N/A
+P256,CRP260,N/A,Tenancius,N/A,Tenvantius,CRN256,N/A,N/A
+P257,CRP261,N/A,Kymbelinus,N/A,Cymbeline,CRN257,CRC049,N/A
+P258,CRP262,N/A,Guiderus,N/A,Guiderius,CRN258,CRC050,N/A
+P259,CRP263,N/A,Arviragus,N/A,Arviragus,CRN259,CRC050,N/A
+P260,CRP264,N/A,Marius,N/A,Marius,CRN260,CRC051,N/A
+P261,CRP265,N/A,Choylus,N/A,Coilus,CRN261,"CRC053, CRC055, CRC054",N/A
+P262,CRP266,N/A,Lucius rex,N/A,King Lucius,CRN262,"CRC053, CRC055, CRC054",N/A
+P263,CRP267,N/A,Severus romanus,N/A,Severus the Roman,CRN263,CRC055,N/A
+P264,CRP268,N/A,Basianus,N/A,Bassianus,CRN264,"CRC055, CRC056",N/A
+P265,CRP269,N/A,Getha,N/A,Geta,CRN265,CRC055,N/A
+P266,CRP270,N/A,Carautius,N/A,Carausius,CRN266,CRC056,N/A
+P267,CRP271,N/A,Allectus romanus,N/A,Allectus the Roman,CRN267,"CRC057, CRC056",N/A
+P268,CRP272,N/A,Asclepiodotus,N/A,Asclepiodotus,CRN268,"CRC058, CRC057, CRC059",N/A
+P269,CRP273,N/A,Choyll,N/A,Coel,CRN269,"CRC060, CRC059",N/A
+P270,CRP274,N/A,Constantius romanus,N/A,Constantius the Roman,CRN270,CRC060,N/A
+P271,CRP275,N/A,Constantinum Magnum,N/A,Constantine the Great,CRN271,"CRC060, CRC062",N/A
+P272,CRP276,N/A,Octonius,N/A,Octavius,CRN272,"CRC062, CRC061",N/A
+P273,CRP277,N/A,Maximianus magnus,N/A,Maximian the Great,CRN273,"CRC061, CRC064, CRC062",N/A
+P274,CRP278,N/A,Gratianus romanus,N/A,Gratianus the Roman,CRN274,N/A,N/A
+P275,CRP279,N/A,Constantinus,N/A,Constantine,CRN275,CRC067,N/A
+P276,CRP280,N/A,Constans,N/A,Constans,CRN276,CRC068,N/A
+P277,CRP281,N/A,Utherpendragon,N/A,Uther Pendragon,"CRN277, CRN281",CRC071,N/A
+P278,CRP282,N/A,Vortigerus,N/A,Vortigern,CRN278,"CRC069, CRC068, CRC063, CRC070",N/A
+P279,CRP283,N/A,Vortimerus,N/A,Vortimer,CRN279,CRC068,N/A
+P280,CRP284,N/A,Aurelius ambrosius,N/A,Aurelius Ambrosius,CRN280,CRC071,N/A
+P281,CRP285,N/A,Phalet,N/A,Phalet,N/A,CRC001,N/A
+P282,CRP286,N/A,Arthurus,N/A,Arthur,CRN282,"CRC072, CRC063, CRC071",N/A
+P283,CRP287,N/A,Constantinus tertius,N/A,Constantine III,CRN283,CRC072,N/A
+P284,CRP288,N/A,Conanus,N/A,Conan,CRN284,CRC067,N/A
+P285,CRP289,N/A,Vortiporius,N/A,Vortipor,CRN285,N/A,N/A
+P286,CRP290,N/A,Maylgo,N/A,Malgo,CRN286,N/A,N/A
+P287,CRP291,N/A,Careticus,N/A,Caretic,CRN287,CRC076,N/A
+P288,CRP292,N/A,Hengistus,N/A,Hengist,CRN288,"CRC069, CRC084, CRC063, CRC068, CRC070",N/A
+P289,CRP293,N/A,Eswi,N/A,Eswi,CRN289,N/A,N/A
+P290,CRP294,N/A,Otra,N/A,Otra,CRN290,N/A,N/A
+P291,CRP295,N/A,Edelbrith,N/A,Æthelbert,CRN291,"CRC074, CRC075",N/A
+P292,CRP296,N/A,Edelbaldus,N/A,Æthelbald,CRN292,N/A,N/A
+P293,CRP297,N/A,Artenbruthus,N/A,Artenbruth,CRN293,N/A,N/A
+P294,CRP298,N/A,Egbrichtus,N/A,Egbricht,CRN294,N/A,N/A
+P295,CRP299,N/A,Ermericus,N/A,Ermeric,CRN295,N/A,N/A
+P296,CRP300,N/A,Lotharius bonus,N/A,Lotharius the Good,CRN296,N/A,N/A
+P297,CRP301,N/A,Eadric,N/A,Eadric,CRN297,N/A,N/A
+P298,CRP302,N/A,Erthenbert,N/A,Erthenbert,CRN298,N/A,N/A
+P299,CRP303,N/A,Widredus,N/A,Widred,CRN299,N/A,N/A
+P300,CRP304,N/A,Switrec,N/A,Switrec,CRN300,N/A,N/A
+P301,CRP305,N/A,Eadbrit,N/A,Eadbrit,CRN301,N/A,N/A
+P302,CRP306,N/A,Adelbrith,N/A,Æthelbrith,CRN302,N/A,N/A
+P303,CRP307,N/A,Egfred,N/A,Egfred,CRN303,N/A,N/A
+P304,CRP308,N/A,Eadbrichpren,N/A,Eadbrith Pren,CRN304,N/A,N/A
+P305,CRP309,N/A,Cudred,N/A,Cudred,CRN305,N/A,N/A
+P306,CRP310,N/A,Elred,N/A,Elred,CRN340,N/A,N/A
+P307,CRP311,N/A,Uffa,N/A,Uffa,CRN307,CRC063,N/A
+P308,CRP312,N/A,Titulus,N/A,Titulus,CRN308,N/A,N/A
+P309,CRP313,N/A,Redwaldus,N/A,Rædwald,CRN309,N/A,N/A
+P310,CRP314,N/A,Eadwall,N/A,Eadwall,CRN310,N/A,N/A
+P311,CRP315,N/A,Warpwalde,N/A,Warpwalde,CRN311,N/A,N/A
+P312,CRP316,N/A,Sigebertus,N/A,Sigebert,CRN312,N/A,N/A
+P313,CRP317,N/A,Egritus,N/A,Ecgric,CRN313,N/A,N/A
+P314,CRP318,N/A,Anna,N/A,Anna,CRN314,N/A,N/A
+P315,CRP319,N/A,Adelher,N/A,Æthelhere,CRN315,N/A,N/A
+P316,CRP320,N/A,Adelbold,N/A,Æthelbold,CRN316,N/A,N/A
+P317,CRP321,N/A,Ardulfus,N/A,Ardulf,CRN317,N/A,N/A
+P318,CRP323,N/A,Ida,N/A,Ida,CRN319,N/A,N/A
+P319,CRP324,N/A,Ella,N/A,Ælla,CRN320,N/A,N/A
+P320,CRP325,N/A,Alderic,N/A,Æthelric,CRN321,N/A,N/A
+P321,CRP326,N/A,Edelfrid,N/A,Æhelfrith,CRN322,N/A,N/A
+P322,CRP327,N/A,Edwinus,N/A,Edwin,CRN323,N/A,N/A
+P323,CRP328,N/A,Oswaldus,N/A,Oswald,CRN324,N/A,N/A
+P324,CRP329,N/A,Oswy,N/A,Oswy,CRN325,N/A,N/A
+P325,CRP330,N/A,Egfred,N/A,Egfred,CRN326,N/A,N/A
+P326,CRP331,N/A,Alfridus,N/A,Alfred,CRN327,N/A,N/A
+P327,CRP332,N/A,Offredus,N/A,Offred,CRN328,N/A,N/A
+P328,CRP333,N/A,Kenred,N/A,Kenred,CRN329,N/A,N/A
+P329,CRP334,N/A,Osrich,N/A,Osric,CRN330,N/A,N/A
+P330,CRP335,N/A,Ceolwulf,N/A,Ceolwulf,CRN331,CRC082,N/A
+P331,CRP336,N/A,Eadbertus,N/A,Eadbert,CRN332,N/A,N/A
+P332,CRP337,N/A,Oswolf,N/A,Oswulf,CRN333,N/A,N/A
+P333,CRP338,N/A,Mal Edelwold,N/A,Æthelwald Moll,CRN334,N/A,N/A
+P334,CRP339,N/A,Alredus,N/A,Alred,CRN335,N/A,N/A
+P335,CRP340,N/A,Edelred,N/A,Æthelred,CRN336,N/A,N/A
+P336,CRP341,N/A,Alfwold,N/A,Ælfwald,CRN337,N/A,N/A
+P337,CRP342,N/A,Efred,N/A,Æfred,CRN338,N/A,N/A
+P338,CRP343,N/A,Ardulf,N/A,Ardulf,CRN339,N/A,N/A
+P339,CRP344,N/A,Elred,N/A,Ælred,CRN340,N/A,N/A
+P340,CRP345,N/A,Erthewyne,N/A,Erthewyne,CRN341,N/A,N/A
+P341,CRP346,N/A,Sled,N/A,Sled,CRN342,N/A,N/A
+P342,CRP347,N/A,Sibert,N/A,Sibert,CRN343,N/A,N/A
+P343,CRP348,N/A,Sigebertus,N/A,Sigebert,CRN344,N/A,N/A
+P344,CRP349,N/A,Sibertus,N/A,Sibert,CRN350,N/A,N/A
+P345,CRP350,N/A,Wythelinus,N/A,Wythelin,CRN346,N/A,N/A
+P346,CRP351,N/A,Selby,N/A,Selby,CRN347,N/A,N/A
+P347,CRP352,N/A,Sigardus,N/A,Sigard,CRN348,N/A,N/A
+P348,CRP353,N/A,Sigbertus,N/A,Sigbert,CRN349,N/A,N/A
+P349,CRP354,N/A,Sibertus,N/A,Sibert,CRN350,N/A,N/A
+P350,CRP355,N/A,Switelinus,N/A,Switelin,CRN351,N/A,N/A
+P351,CRP357,N/A,Selby,N/A,Selby,CRN352,N/A,N/A
+P352,CRP356,N/A,Sigher,N/A,Sigher,CRN353,N/A,N/A
+P353,CRP358,N/A,Kewynus,N/A,Kewyn,CRN354,N/A,N/A
+P354,CRP359,N/A,Serdic,N/A,Cerdic,CRN355,CRC072,N/A
+P355,CRP360,N/A,Kynrik,N/A,Cynric,CRN356,N/A,N/A
+P356,CRP361,N/A,Chelyng,N/A,Ceawlin,CRN357,N/A,N/A
+P357,CRP362,N/A,Cheldric,N/A,Celdric,CRN358,N/A,N/A
+P358,CRP363,N/A,Cheolwolf,N/A,Ceolwulf,CRN359,N/A,N/A
+P359,CRP364,N/A,Kyngils,N/A,Cynegisl the Christian,CRN360,N/A,N/A
+P360,CRP365,N/A,Chenwalt,N/A,Cenwealh,CRN361,N/A,N/A
+P361,CRP366,N/A,Escwine,N/A,Æscwine,CRN362,N/A,N/A
+P362,CRP367,N/A,Kenwyn,N/A,Centwine,CRN363,N/A,N/A
+P363,CRP368,N/A,Cedwalla,N/A,Cædwalla,CRN364,CRC079,N/A
+P364,CRP369,N/A,Ine,N/A,Ine,CRN365,N/A,N/A
+P365,CRP370,N/A,Athelardus,N/A,Æthelheard,CRN366,N/A,N/A
+P366,CRP371,N/A,Cudredus,N/A,Cuthred,CRN367,N/A,N/A
+P367,CRP372,N/A,Sigebius,N/A,Sigebert,CRN368,N/A,N/A
+P368,CRP373,N/A,Wynwolf,N/A,Cynewulf,CRN369,N/A,N/A
+P369,CRP374,N/A,Britrith,N/A,Beorhtric,CRN370,N/A,N/A
+P370,CRP375,N/A,Crida,N/A,Crida,CRN371,N/A,N/A
+P371,CRP376,N/A,Wirpa,N/A,Wirpa,CRN372,N/A,N/A
+P372,CRP377,N/A,Cheorlus,N/A,Cearl,CRN373,N/A,N/A
+P373,CRP378,N/A,Penda,N/A,Penda,CRN375,N/A,N/A
+P374,CRP379,N/A,Penda,N/A,Penda,CRN375,N/A,N/A
+P375,CRP380,N/A,Edelred,N/A,Æthelred,CRN376,CRC090,N/A
+P376,CRP381,N/A,Kenred,N/A,Coenred,CRN377,N/A,N/A
+P377,CRP382,N/A,Ceolred,N/A,Ceolred,CRN378,N/A,N/A
+P378,CRP383,N/A,Adelbold,N/A,Æthelbald,CRN379,N/A,N/A
+P379,CRP384,N/A,Beornred,N/A,Beornred,CRN380,N/A,N/A
+P380,CRP385,N/A,Offa,N/A,Offa,CRN381,CRC083,N/A
+P381,CRP386,N/A,Egfred,N/A,Ecgfrith,CRN382,N/A,N/A
+P382,CRP387,N/A,Kenwolf,N/A,Coenwulf,CRN383,N/A,N/A
+P383,CRP388,N/A,Cealwolf,N/A,Ceolwulf,CRN384,N/A,N/A
+P384,CRP389,N/A,Beornulf,N/A,Beornwulf,CRN385,N/A,N/A
+P385,CRP390,N/A,Ludecen,N/A,Ludeca,CRN386,N/A,N/A
+P386,CRP391,N/A,Wilaf,N/A,Wiglaf,CRN387,N/A,N/A
+P387,CRP392,N/A,Ella,N/A,Ælla,CRN388,N/A,N/A
+P388,CRP393,N/A,Scissa,N/A,Scissa,CRN389,N/A,N/A
+P389,CRP394,N/A,Edelwold,N/A,Æthelwald,CRN390,N/A,N/A
+P390,CRP395,N/A,Adelbryth,N/A,Æthelbrith,CRN391,N/A,N/A
+P391,CRP396,N/A,Egbrutus,N/A,Egbert,CRN392,CRC084,N/A
+P392,CRP397,N/A,Edwolphus,N/A,Æthelwulf,CRN393,"CRC087, CRC086, CRC084",N/A
+P393,CRP398,N/A,Edboldus,N/A,Æthelbald,CRN394,CRC088,N/A
+P394,CRP399,N/A,Edelbrith,N/A,Æthelbert,CRN395,CRC088,N/A
+P395,CRP400,N/A,Edelred,N/A,Æthelred,CRN396,N/A,N/A
+P396,CRP401,N/A,Alfredus,N/A,Alfred,CRN397,"CRC091, CRC035, CRC106",N/A
+P397,CRP402,N/A,"filiae nobiles [Edith, Eadgifu, Eadgyth (Edith), Ælfgifu, Eadgifu and Eadflæd]",N/A,"noble daughters [Edith, Eadgifu, Eadgyth (Edith), Ælfgifu, Eadgifu and Eadflæd]",CRN400,CRC095,(=CRP769=CRP840=CRP841=CRP842=CRP843)
+P398,CRP403,N/A,Edwardus,N/A,Edward,CRN399,CRC095,N/A
+P399,CRP404,N/A,Nobiles filie,N/A,Noble daughters,CRN400,CRC093,N/A
+P400,CRP405,N/A,Alfredus,N/A,Alfred,CRN416,N/A,N/A
+P401,CRP406,N/A,Edwydus,N/A,Edward,CRN402,N/A,N/A
+P402,CRP407,N/A,Edredus,N/A,Eadred,CRN403,CRC098,(=CRP413)
+P403,CRP322,N/A,Sanctus Edmundus,N/A,St Edmund,CRN404,"CRC090, CRC105",N/A
+P404,CRP409,N/A,Athelstanus,N/A,Æthelstan,CRN405,CRC096,N/A
+P405,CRP410,N/A,Edmundus,N/A,Edmund,CRN406,CRC097,N/A
+P406,CRP411,N/A,"[1] Edwyn, [2] Eadwinus",N/A,"[1] Edwyn, [2] Eadwig","CRN410, CRN407",CRC099,N/A
+P407,CRP412,N/A,Edgarus,N/A,Edgar,"CRN411, CRN408",N/A,N/A
+P408,CRP414,N/A,Sethnir,N/A,Seth,N/A,CRC003,N/A
+P409,CRP415,N/A,Edgaro,N/A,Edmund,N/A,"CRC104, CRC100",N/A
+P410,CRP416,N/A,Sancta Editha,N/A,St Edith,CRN412,N/A,N/A
+P411,CRP417,N/A,Edmundus,N/A,Edmund,CRN475,N/A,N/A
+P412,CRP418,N/A,Edwardus martyr,N/A,Edward the Martyr,CRN414,CRC101,N/A
+P413,CRP419,N/A,Alredus,N/A,Æthelred,CRN415,"CRC102, CRC105",N/A
+P414,CRP420,N/A,Alfredus,N/A,Aldred,CRN416,CRC102,N/A
+P415,CRP421,N/A,Emma,N/A,Emma,"CRN616, CRN615","CRC105, CRC108, CRC102",N/A
+P416,CRP422,N/A,Edmundus Irenside,N/A,Edmund Ironside,N/A,"CRC105, CRC104, CRC102",N/A
+P417,CRP424,N/A,Edwydus exul,N/A,Edward the Exile,CRN420,N/A,N/A
+P418,CRP425,N/A,Edmundus,N/A,Edmund,CRN475,N/A,N/A
+P419,CRP426,N/A,Edgarus Ethelyng,N/A,Edgar Ætheling,CRN423,N/A,N/A
+P420,CRP427,N/A,Margareta regina Scotie,N/A,"Margaret, Queen of Scotland","CRN424, CRN426",CRC113,(=CRP429)
+P421,CRP428,N/A,Cristina sanctimoni alis,N/A,Christina the nun,CRN422,N/A,N/A
+P422,CRP431,N/A,Matilda,N/A,Matilda,CRN427,CRC113,N/A
+P423,CRP432,N/A,Knutus,N/A,Cnut,CRN428,"CRC104, CRC105, CRC108, CRC102",N/A
+P424,CRP434,N/A,Sweyn danus,N/A,Sweyn the Dane,CRN430,"CRC102, CRC111",N/A
+P425,CRP435,N/A,Haraldus hareforth,N/A,Harold Harefoot,CRN431,CRC107,N/A
+P426,CRP436,N/A,Hardeknutus,N/A,Harthacnut,CRN432,"CRC105, CRC108",N/A
+P427,CRP437,N/A,Sanctus Edwardus Confessor,N/A,St Edward the Confessor,CRN433,"CRC102, CRC105, CRC106, CRC113, CRC108, CRC101, CRC111, CRC109",N/A
+P428,CRP438,N/A,Haraldus,N/A,Harold,CRN434,"CRC110, CRC109, CRC106",N/A
+P429,CRP439,N/A,Willelmus nothus,N/A,William the Bastard,"CRN435, CRN622","CRC110, CRC109, CRC106, CRC114, CRC086, CRC111",N/A
+P430,CRP440,N/A,Quatuor alie filie,N/A,Four other sons,CRN436,N/A,N/A
+P431,CRP441,N/A,Adala,N/A,Adela,CRN437,CRC114,N/A
+P432,CRP442,N/A,Stephanus Blesensis,N/A,Stephen of Blois,"CRN438, CRN448",CRC114,N/A
+P433,CRP443,N/A,"[1] Henricus primus, [2] Henricus clericus",N/A,"[1] Henry I, [2] Henry the Cleric","CRN443, CRN439","CRC113, CRC114, CRC111",N/A
+P434,CRP444,N/A,Ricardus,N/A,Richard,CRN440,N/A,N/A
+P435,CRP445,N/A,Willelmus Rufus,N/A,William Rufus,CRN441,"CRC087, CRC106, CRC111, CRC112",N/A
+P436,CRP446,N/A,Robertus courthuse,N/A,Robert Curthose,CRN442,"CRC111, CRC113",N/A
+P437,CRP448,N/A,Matilda imperatrix,N/A,Matilda the Empress,CRN444,"CRC115, CRC106, CRC114, CRC113",N/A
+P438,CRP449,N/A,Una filia submersa,N/A,One daughter drowned,CRN445,N/A,N/A
+P439,CRP450,N/A,Willelmus submersus,N/A,William drowned,CRN446,"CRC115, CRC113",N/A
+P440,CRP451,N/A,Robertus submersus,N/A,Robert drowned,CRN447,CRC113,N/A
+P441,CRP453,N/A,Henricus Secondus,N/A,Henry II,CRN449,"CRC115, CRC105, CRC106",N/A
+P442,CRP454,N/A,Comitissa tholose,N/A,Countess of Toulouse,CRN450,N/A,N/A
+P443,CRP455,N/A,Elenora regina castelle,N/A,"Eleanor, Queen of Castile",CRN451,N/A,N/A
+P444,CRP456,N/A,Johannes,N/A,John,"CRN611, CRN461","CRC117, CRC119",N/A
+P445,CRP457,N/A,Matilda ducissa Saxonis et Sardis,N/A,"Matilda, Duchess of Saxony and Sardis",CRN453,N/A,N/A
+P446,CRP458,N/A,Henricus dux Saxonie,N/A,"Henry, Duke of Saxony",CRN454,N/A,N/A
+P447,CRP459,N/A,Octes Imperator,N/A,Otto the Emperor,CRN455,N/A,N/A
+P448,CRP460,N/A,Galfridus dux Britannie,N/A,"Geoffrey, Duke of Brittany",CRN456,CRC117,N/A
+P449,CRP461,N/A,Arthurus dux Brittannie,N/A,"Arthur, Duke of Brittany",CRN457,CRC117,N/A
+P450,CRP462,N/A,Ricardus primus,N/A,Richard I,CRN458,"CRC116, CRC117",N/A
+P451,CRP463,N/A,Henricus junior elegans,N/A,Elegant Henry the Younger,CRN459,CRC115,N/A
+P452,CRP464,N/A,Willelmus,N/A,William,CRN460,N/A,N/A
+P453,CRP466,N/A,Johanna regina Scotie,N/A,"Joan, Queen of Scotland",CRN529,N/A,N/A
+P454,CRP467,N/A,Elienora comitessa Pembroche,N/A,"Eleanor, Countess of Pembroke",CRN463,N/A,N/A
+P455,CRP468,N/A,Isabella imperatrix,N/A,Isabella the Empress,CRN464,N/A,N/A
+P456,CRP469,N/A,Ricardus rex almanie,N/A,"Richard, King of Germany",CRN465,N/A,N/A
+P457,CRP470,N/A,Edmundus dux Cornubie,N/A,"Edmund, Duke of Cornwall",CRN466,N/A,N/A
+P458,CRP471,N/A,Henricus de almania,N/A,Henry of Germany,CRN467,N/A,N/A
+P459,CRP472,N/A,Henricus tertius,N/A,Henry III,CRN468,"CRC118, CRC117, CRC119",N/A
+P460,CRP473,N/A,Henricus,N/A,Henry,CRN469,N/A,N/A
+P461,CRP474,N/A,Willelmus,N/A,William,CRN470,N/A,N/A
+P462,CRP475,N/A,Johannes,N/A,John,CRN471,N/A,N/A
+P463,CRP476,N/A,Ricardus,N/A,Richard,CRN472,N/A,N/A
+P464,CRP477,N/A,Katrina,N/A,Katherine,CRN473,N/A,N/A
+P465,CRP478,N/A,Beatrix,N/A,Beatrix,CRN494,N/A,N/A
+P466,CRP479,N/A,Edmundus,N/A,Edmund,CRN475,N/A,N/A
+P467,CRP480,N/A,Margareta,N/A,Margaret,CRN561,N/A,N/A
+P468,CRP481,N/A,Edwardi primi,N/A,Edward I,CRN477,"CRC118, CRC121",N/A
+P469,CRP482,N/A,Margareta,N/A,Margaret,CRN478,N/A,N/A
+P470,CRP483,N/A,Elenora,N/A,Eleanor,CRN479,N/A,N/A
+P471,CRP484,N/A,Edmundus comes kantie,N/A,"Edmund, Earl of Kent",CRN480,N/A,N/A
+P472,CRP485,N/A,Thomas comes Manchallie,N/A,"Thomas, Earl Marshal",CRN481,N/A,N/A
+P473,CRP486,N/A,Eleanora,N/A,Eleanor,CRN482,N/A,N/A
+P474,CRP487,N/A,Eleanora comitissa de,N/A,"Eleanor, Countess of",CRN483,N/A,N/A
+P475,CRP488,N/A,Johanna comitissa de gloucester,N/A,"Joan, Countess of Gloucester",CRN484,N/A,N/A
+P476,CRP489,N/A,Johanna,N/A,Joan,CRN485,N/A,N/A
+P477,CRP490,N/A,Henricus,N/A,Henry,CRN515,N/A,N/A
+P478,CRP491,N/A,Margareta ducissa brabantie,N/A,"Margaret, Duchess of Brabant",CRN487,N/A,N/A
+P479,CRP492,N/A,Margareta,N/A,Margaret,CRN561,N/A,N/A
+P480,CRP493,N/A,Elizabeth comitissa de Herford,N/A,"Elizabeth, Countess of Hereford",CRN489,N/A,N/A
+P481,CRP494,N/A,Maria,N/A,Maria,CRN490,N/A,N/A
+P482,CRP495,N/A,Elizabeth comitissa de Honiland,N/A,"Elizabeth, Countess of Holland",CRN491,N/A,N/A
+P483,CRP496,N/A,Edwardus karnavian,N/A,Edward of Caernafon,CRN492,CRC121,N/A
+P484,CRP497,N/A,Henricus,N/A,Henry,CRN515,N/A,N/A
+P485,CRP498,N/A,Beatrix,N/A,Beatrix,CRN494,N/A,N/A
+P486,CRP499,N/A,Blanchia,N/A,Blanche,CRN529,N/A,N/A
+P487,CRP500,N/A,Elienora comitissa de goldara,N/A,"Eleanor, Countess of Guelders",CRN547,N/A,N/A
+P488,CRP533,N/A,Johanna regina Scotie,N/A,"Joan, Queen of Scotland","CRN529, CRN495",N/A,N/A
+P489,CRP502,N/A,Johannes otham comes cornubie,N/A,"John of Eltham, Earl of Cornwall",CRN498,N/A,N/A
+P490,CRP503,N/A,Edwardus tertius,N/A,Edward III,CRN499,"CRC120, CRC122",N/A
+P491,CRP504,N/A,Edwardus princeps Wallie,N/A,"Edward, Pince of Wales",CRN500,N/A,N/A
+P492,CRP505,N/A,Edwardus,N/A,Edward,CRN513,N/A,N/A
+P493,CRP506,N/A,Ricardus Secundus,N/A,Richard II,CRN502,CRC127,N/A
+P494,CRP507,N/A,Isabella comitissa de Bedford,N/A,"Isabella, Countess of Bedford",CRN503,N/A,N/A
+P495,CRP508,N/A,Johanna regina hispanie,N/A,"Joan, Queen of Spain",CRN504,N/A,N/A
+P496,CRP509,N/A,Williamus Hatfeld,N/A,William of Hatfield,CRN505,N/A,N/A
+P497,CRP510,N/A,Leonel dux clarencie,N/A,"Lionel, Duke of Clarence",CRN506,CRC133,N/A
+P498,CRP511,N/A,Philippa,N/A,Philippa,CRN507,"CRC133, CRC130, CRC129, CRC136",(=CRP830)
+P499,CRP512,N/A,Johannes dux Lancastrie,N/A,"John, Duke of Lancaster",CRN508,"CRC127, CRC123, CRC118",N/A
+P500,CRP513,N/A,Domina Blanche,N/A,Lady Blanche,CRN509,CRC118,N/A
+P501,CRP514,N/A,Johannes,N/A,John,CRN611,N/A,N/A
+P502,CRP515,N/A,Edwardus,N/A,Edward,CRN513,N/A,N/A
+P503,CRP516,N/A,Philippa regina portyngalie,N/A,"Philippa, Queen of Portugal",CRN512,N/A,N/A
+P504,CRP517,N/A,Edwardus,N/A,Edward,CRN513,N/A,N/A
+P505,CRP518,N/A,Petrus,N/A,Peter,CRN514,"CRC109, CRC086, CRC075, CRC083",N/A
+P506,CRP519,N/A,Henricus,N/A,Henry,CRN515,N/A,N/A
+P507,CRP520,N/A,Alexandir,N/A,Alexander,CRN516,N/A,N/A
+P508,CRP522,N/A,Elizabeth comitissa huntyngdon,N/A,"Elizabeth, Countess of Huntingdon",CRN518,N/A,N/A
+P509,CRP523,N/A,Henricus quartus,N/A,Henry IV,CRN519,"CRC125, CRC127, CRC128",N/A
+P510,CRP524,N/A,Johannes,N/A,John,CRN611,N/A,N/A
+P511,CRP526,N/A,Katrina regina hispanie,N/A,"Katherine, Queen of Spain",CRN522,N/A,N/A
+P512,CRP527,N/A,Katrina Sanfordie,N/A,Katherine Swynford,CRN523,N/A,N/A
+P513,CRP528,N/A,Johannes comes somersed,N/A,"John, Earl of Somerset",CRN527,N/A,N/A
+P514,CRP529,N/A,Comes somersed,N/A,Count of Somerset,CRN525,N/A,N/A
+P515,CRP530,N/A,Thomas,N/A,Thomas,CRN558,N/A,N/A
+P516,CRP531,N/A,Johannes comes somersed,N/A,"John, Earl of Somerset",CRN527,N/A,N/A
+P517,CRP532,N/A,Edmundus comes de morten,N/A,"Edmund, Count of Mortain",CRN528,N/A,N/A
+P518,CRP533,N/A,Johanna regina Scotie,N/A,"Joan, Queen of Scotland","CRN529, CRN495",N/A,N/A
+P519,CRP534,N/A,Margareta comitissa devonie,N/A,"Margaret, Countess of Devon",CRN530,N/A,N/A
+P520,CRP535,N/A,Johanna comitissa Westmorlandie,N/A,"Joan, Countess of Westmoreland",CRN531,N/A,N/A
+P521,CRP537,N/A,Ricardus comes sarum,N/A,"Richard, Earl of Salisbury",CRN533,N/A,N/A
+P522,CRP538,N/A,Robertus episcopus Sarum,N/A,"Robert, Bishop of Salisbury",CRN534,N/A,N/A
+P523,CRP543,N/A,Henricus cardinal,N/A,Henry the cardinal,CRN539,N/A,N/A
+P524,CRP544,N/A,Thomas dux exonie,N/A,"Thomas, Duke of Exeter",CRN540,N/A,N/A
+P525,CRP545,N/A,Edmundus dux eboraci,N/A,"Edmund of Langley, Duke of York",CRN541,CRC123,N/A
+P526,CRP546,N/A,Edwardus dux eboraci,N/A,"Edward, Duke of York",CRN542,CRC123,N/A
+P527,CRP547,N/A,Ricardus comes cantabrigie,N/A,"Richard, Earl of Cambridge","CRN582, CRN543",CRC123,N/A
+P528,CRP548,N/A,Domina Matilda de clyfford,N/A,Lady Matilda of Clifford,CRN544,N/A,N/A
+P529,CRP550,N/A,Ricardus dux eboraci et comes merchall,N/A,"Richard, Duke of York, Earl of March","CRN584, CRN546",CRC137,N/A
+P530,CRP551,N/A,Blanchia,N/A,Blanche,CRN547,N/A,N/A
+P531,CRP552,N/A,Maria ducissa de britannie,N/A,"Mary, Duchess of Brittany",CRN548,N/A,N/A
+P532,CRP553,N/A,Margareta comitissa pembrochie,N/A,"Margaret, Countess of Pembroke",CRN549,N/A,N/A
+P533,CRP554,N/A,Willelmus Wyndesore,N/A,William of Windsor,CRN550,N/A,N/A
+P534,CRP555,N/A,Thomas dux gloucestrie,N/A,"Thomas, Duke of Gloucester",CRN551,N/A,N/A
+P535,CRP556,N/A,Anna comitissa Staffordie,N/A,"Anne, Countess of Stafford",CRN552,N/A,N/A
+P536,CRP557,N/A,Philippa,N/A,Philippa,CRN553,N/A,N/A
+P537,CRP558,N/A,Comes Stafford,N/A,Earl of Stafford,CRN554,N/A,N/A
+P538,CRP559,N/A,Anna comitissa huntyngdon,N/A,"Anne, Countess of Huntingdon",CRN555,N/A,N/A
+P539,CRP560,N/A,Henricus comes de Essex,N/A,"Henry, Earl of Essex",CRN556,N/A,N/A
+P540,CRP561,N/A,Williamus,N/A,William,CRN557,N/A,N/A
+P541,CRP562,N/A,Thomas,N/A,Thomas,CRN558,N/A,N/A
+P542,CRP563,N/A,Johannes,N/A,John,CRN611,N/A,N/A
+P543,CRP564,N/A,Anna,N/A,Anne,CRN560,N/A,N/A
+P544,CRP565,N/A,Margareta,N/A,Margaret,CRN561,N/A,N/A
+P545,CRP566,N/A,Thomas dux clarenchie,N/A,"Thomas, Duke of Clarence",CRN562,N/A,N/A
+P546,CRP567,N/A,Johannes dux bedfordie,N/A,"John, Duke of Bedford",CRN563,N/A,N/A
+P547,CRP568,N/A,Humfridus dux gloucestrie,N/A,"Humphrey, Duke of Gloucester",CRN564,N/A,N/A
+P548,CRP569,N/A,Blanchia imperatrix,N/A,Blanche the Empress,CRN565,N/A,N/A
+P549,CRP570,N/A,Philippa regina denmarchie,N/A,"Philippa, Queen of Denmark",CRN566,N/A,N/A
+P550,CRP571,N/A,Henricus quintus,N/A,Henry V,CRN567,"CRC125, CRC128",N/A
+P551,CRP572,N/A,Henricus sextus,N/A,Henry VI,CRN568,CRC128,N/A
+P552,CRP573,N/A,Hugo mortymer,N/A,Hugh de Mortimer,CRN569,N/A,N/A
+P553,CRP574,N/A,Rogerus mortymer,N/A,Roger de Mortimer,CRN572,N/A,N/A
+P554,CRP575,N/A,Radulphus mortymer,N/A,Ralph de Mortimer,CRN571,N/A,N/A
+P555,CRP576,N/A,Rogerus mortymer,N/A,Roger Mortimer,CRN572,N/A,N/A
+P556,CRP577,N/A,Edmundus mortymer,N/A,Edmund Mortimer,CRN573,N/A,N/A
+P557,CRP578,N/A,Rogerus primus comes marchie,N/A,"Roger, (first) Earl of March",CRN574,N/A,N/A
+P558,CRP579,N/A,Edmundus comes marchie,N/A,"Edmund, Earl of March",CRN575,N/A,N/A
+P559,CRP580,N/A,Rogerus comes marchie,N/A,"Roger, Earl of March",CRN576,CRC129,N/A
+P560,CRP581,N/A,Edmundus comes marchie,N/A,"Edmund, Earl of March",CRN577,"CRC133, CRC136",N/A
+P561,CRP582,N/A,Aliciam,N/A,Elizabeth,CRN578,CRC133,N/A
+P562,CRP583,N/A,Rogerus comes march,N/A,"Roger, Earl of March",CRN579,"CRC130, CRC131, CRC133",N/A
+P563,CRP584,N/A,Rogerum,N/A,Roger,CRN580,CRC130,N/A
+P564,CRP585,N/A,Edmundus comes march,N/A,"Edmund, Earl of March",CRN581,"CRC131, CRC130, CRC133",N/A
+P565,CRP586,N/A,Anna,N/A,Anna,CRN582,CRC133,N/A
+P566,CRP587,N/A,Elizabeth,N/A,Elizabeth,CRN583,N/A,N/A
+P567,CRP589,N/A,Cecilia,N/A,Cecily,CRN585,N/A,N/A
+P568,CRP590,N/A,Anna ducissa Exoniesis,N/A,"Anne, Duchess of Exeter",CRN586,N/A,N/A
+P569,CRP591,N/A,Elizabeth ducissa suthfolchie,N/A,"Elizabeth, Duchess of Suffolk",CRN587,N/A,N/A
+P570,CRP592,N/A,Margareta,N/A,"Margaret, Duchess of Burgundy",CRN588,N/A,N/A
+P571,CRP593,N/A,Edwardum Quartum,N/A,Edward IV,CRN589,"CRC134, CRC133",N/A
+P572,CRP594,N/A,Edmundus comes rothlandi,N/A,"Edmund, Earl of Rutland",CRN590,N/A,N/A
+P573,CRP595,N/A,Georgius dux clarentie,N/A,"George, Duke of Clarence",CRN591,N/A,N/A
+P574,CRP596,N/A,Ricardus ducem Gloucestrie,N/A,"Richard, Duke of Gloucester",CRN592,N/A,N/A
+P575,CRP597,N/A,Alicia [sic],N/A,Eleanor,CRN593,N/A,N/A
+P576,CRP598,N/A,Comes Ultonie,N/A,Earl of Ulster,CRN594,N/A,N/A
+P577,CRP599,N/A,Anna,N/A,Anne,CRN595,CRC133,N/A
+P578,CRP600,N/A,Rex petrus hispanie,N/A,"Peter, King of Spain",CRN596,"CRC124, CRC123",N/A
+P579,CRP601,N/A,Constantia,N/A,Constance,"CRN521, CRN597","CRC123, CRC124",N/A
+P580,CRP602,N/A,Isabella,N/A,Isabella,CRN598,CRC123,N/A
+P581,CRP603,N/A,Sanctus Ludovicus,N/A,St Louis,CRN599,CRC120,N/A
+P582,CRP604,N/A,Philippus,N/A,Philip,CRN600,CRC120,N/A
+P583,CRP605,N/A,Philippus pulcher,N/A,Philip the Fair,CRN601,CRC120,N/A
+P584,CRP606,N/A,Lodovicus hutyn,N/A,Louis the Headstrong,CRN602,CRC120,N/A
+P585,CRP607,N/A,Johannes posthumous,N/A,John the Posthumous,CRN603,CRC120,N/A
+P586,CRP608,N/A,Philippus longue,N/A,Philip the Tall,"CRN604, CRN607",CRC120,N/A
+P587,CRP609,N/A,Karolus pulcher,N/A,Charles the Fair,"CRN608, CRN605",CRC120,N/A
+P588,CRP610,N/A,Johannes,N/A,John,"CRN611, CRN606",N/A,N/A
+P589,CRP613,N/A,Isabella,N/A,Isabella,CRN609,CRC120,N/A
+P590,CRP614,N/A,Karolus de valoys,N/A,Charles of Valois,CRN610,CRC120,N/A
+P591,CRP616,N/A,Rollo [Rubertus],N/A,Rollo [Robert],CRN612,"CRC094, CRC091",N/A
+P592,CRP617,N/A,Williamus longa sparta,N/A,William Longsword,CRN613,N/A,N/A
+P593,CRP618,N/A,Ricardus sine timore,N/A,Richard the Fearless,CRN614,CRC102,N/A
+P594,CRP621,N/A,Ricardus secondus,N/A,Richard II,CRN617,"CRC134, CRC131",N/A
+P595,CRP622,N/A,Ricardus tertius,N/A,Richard III,CRN618,N/A,N/A
+P596,CRP623,N/A,Robertus,N/A,Robert,"CRN619, CRN621",CRC103,N/A
+P597,CRP624,N/A,Ricardus,N/A,Richard,CRN620,CRC103,N/A
+P598,CRP631,N/A,Jonitum,N/A,Jonichus,N/A,CRC001,N/A
+P599,CRP632,N/A,Alanus,N/A,Alanus,N/A,CRC003,N/A
+P600,CRP635,N/A,Ogoymyn,N/A,Ogomyn,N/A,CRC003,N/A
+P601,CRP636,N/A,Thoy,N/A,Thoy,N/A,CRC003,N/A
+P602,CRP637,N/A,Borb,N/A,Borb,N/A,CRC003,N/A
+P603,CRP638,N/A,Semeon,N/A,Semeon,N/A,CRC003,N/A
+P604,CRP639,N/A,Mair,N/A,Mair,N/A,CRC003,N/A
+P605,CRP640,N/A,Arthaat,N/A,Arthaat,N/A,CRC003,N/A
+P606,CRP641,N/A,Cetheet,N/A,Cetheet,N/A,CRC003,N/A
+P607,CRP642,N/A,Corbii,N/A,Corbii,N/A,CRC003,N/A
+P608,CRP643,N/A,Abirb,N/A,Abirb,N/A,CRC003,N/A
+P609,CRP644,N/A,Ra,N/A,Ra,N/A,CRC003,N/A
+P610,CRP645,N/A,Esra,N/A,Esra,N/A,CRC003,N/A
+P611,CRP646,N/A,Esran,N/A,Esran,N/A,CRC003,N/A
+P612,CRP647,N/A,Baath,N/A,Baath,N/A,CRC003,N/A
+P613,CRP648,N/A,Jehan,N/A,Jehan,N/A,CRC003,N/A
+P614,CRP649,N/A,Japha,N/A,Japha,N/A,CRC003,N/A
+P615,CRP650,N/A,Ysition,N/A,Ysition,N/A,CRC003,N/A
+P616,CRP651,N/A,Armenion,N/A,Armenion,N/A,CRC003,N/A
+P617,CRP652,N/A,Negno,N/A,Negno,N/A,CRC003,N/A
+P618,CRP653,N/A,Francus,N/A,Francus,N/A,CRC003,N/A
+P619,CRP654,N/A,Romanus,N/A,Romanus,N/A,CRC003,N/A
+P620,CRP655,N/A,Alamanius,N/A,Alamanius,N/A,CRC003,N/A
+P621,CRP656,N/A,Briton,N/A,Briton,N/A,CRC003,N/A
+P622,CRP657,N/A,Gothus,N/A,Gothus,N/A,CRC003,N/A
+P623,CRP658,N/A,Walagotus,N/A,Walagotus,N/A,CRC003,N/A
+P624,CRP659,N/A,Coebidius,N/A,Coebidius,N/A,CRC003,N/A
+P625,CRP660,N/A,Burgundus,N/A,Burgundus,N/A,CRC003,N/A
+P626,CRP661,N/A,Logabardus,N/A,Logabardus,N/A,CRC003,N/A
+P627,CRP662,N/A,Wandalus,N/A,Vandalus,N/A,CRC003,N/A
+P628,CRP663,N/A,Saxon,N/A,Saxon,N/A,CRC003,N/A
+P629,CRP664,N/A,Rogarnus,N/A,Rogarnus,N/A,CRC003,N/A
+P630,CRP665,N/A,Gargus,N/A,Gargus,N/A,CRC003,N/A
+P631,CRP666,N/A,Maia,N/A,Maia,N/A,CRC005,N/A
+P632,CRP668,N/A,Willimus de Ryvall,N/A,William of Ryvall,N/A,CRC044,N/A
+P633,CRP669,N/A,Mercurius,N/A,Mercury,N/A,CRC005,N/A
+P634,CRP670,N/A,Electra,N/A,Electra,N/A,CRC005,N/A
+P635,CRP671,N/A,Venus,N/A,Venus,N/A,CRC008,N/A
+P636,CRP673,N/A,Lavinia,N/A,Lavinia,N/A,"CRC010, CRC012",N/A
+P637,CRP674,N/A,Turnus rex Rutenorum,N/A,"Turnus, King of the Ruteni",N/A,"CRC010, CRC014",N/A
+P638,CRP675,N/A,Creusa,N/A,Creusa,N/A,CRC010,N/A
+P639,CRP676,N/A,Priami [nomine Julius] rex Troie,N/A,"Priam [called Iulus], King of Troy",N/A,CRC010,N/A
+P640,CRP678,N/A,Prandesius rex Grecorum,N/A,"Pandrasus, King of the Greeks",N/A,CRC014,N/A
+P641,CRP679,N/A,Innogena,N/A,Innogena,N/A,CRC014,N/A
+P642,CRP680,N/A,Diana,N/A,Diana,N/A,CRC014,N/A
+P643,CRP682,N/A,Antenor,N/A,Antenor,N/A,CRC014,N/A
+P644,CRP683,N/A,Corineus,N/A,Corineus,N/A,CRC014,N/A
+P645,CRP684,N/A,Sancti Ethelberti,N/A,St Æthelbert,N/A,"CRC109, CRC083",N/A
+P646,CRP685,N/A,Wacle,N/A,Wacle,N/A,CRC014,N/A
+P647,CRP686,N/A,Gogmagog,N/A,Gogmagog,N/A,CRC014,N/A
+P648,CRP687,N/A,Sergio Papa,N/A,Pope Sergius,N/A,CRC081,N/A
+P649,CRP688,N/A,Northumbrie Beda,N/A,Bede of Northumbria,N/A,CRC082,N/A
+P650,CRP689,N/A,Gladunddny,N/A,Glandunddy,N/A,CRC126,N/A
+P651,CRP690,N/A,Sancti Johannes,N/A,St John,N/A,CRC121,N/A
+P652,CRP692,N/A,Sanctus David,N/A,St David,N/A,CRC121,N/A
+P653,CRP693,N/A,Sante Magarete,N/A,St Margaret,N/A,CRC121,N/A
+P654,CRP694,N/A,Sancti Nicolay,N/A,St Nicholas,N/A,CRC121,N/A
+P655,CRP695,N/A,Humber rex Hunorum,N/A,"Humber, King of the Huns",N/A,CRC013,N/A
+P656,CRP696,N/A,Samuel,N/A,Samuel,N/A,CRC016,N/A
+P657,CRP697,N/A,Omerus,N/A,Homer,N/A,CRC016,N/A
+P658,CRP698,N/A,Malus,N/A,Malin,N/A,CRC017,N/A
+P659,CRP699,N/A,Saul,N/A,Saul,N/A,CRC017,N/A
+P660,CRP700,N/A,Solomon,N/A,Solomon,N/A,CRC019,N/A
+P661,CRP701,N/A,Maglonius dux Albanie,N/A,"Maglonius, Duke of Albany",N/A,CRC023,N/A
+P662,CRP702,N/A,Henricus dux Cornubie,N/A,"Henry, Duke of Cornwall",N/A,CRC023,N/A
+P663,CRP703,N/A,Aganippus rex Francorum,N/A,"Aganippus, King of the Franks",N/A,CRC023,N/A
+P664,CRP704,N/A,Ysaias,N/A,Isaiah,N/A,CRC025,N/A
+P665,CRP705,N/A,Oraratius,N/A,Horace,N/A,CRC028,N/A
+P666,CRP706,N/A,Scotus,N/A,Scotus,N/A,CRC030,N/A
+P667,CRP707,N/A,Pinnerus rex Loegrie,N/A,"Pinner, King of Loegria",N/A,CRC031,N/A
+P668,CRP708,N/A,Juclanus Kambrie,N/A,Ruduac of Cambria,N/A,CRC031,N/A
+P669,CRP709,N/A,Statarius Albanie,N/A,Stater of Albany,N/A,CRC031,N/A
+P670,CRP710,N/A,Yenanus Humbrie,N/A,Yenanus of Humber,N/A,CRC031,N/A
+P671,CRP711,N/A,Clotonis dux Cornubie,N/A,"Cloten, Duke of Cornwall",N/A,"CRC031, CRC032",N/A
+P672,CRP714,N/A,Gildas,N/A,Gildas,N/A,CRC032,N/A
+P673,CRP715,N/A,Gallio,N/A,Gallio,N/A,CRC033,N/A
+P674,CRP716,N/A,Porcenna,N/A,Porcenna,N/A,CRC033,N/A
+P675,CRP718,N/A,Marcia,N/A,Marcia,N/A,CRC035,N/A
+P676,CRP720,N/A,Androgei dux Ternovanter [Trinovanter],N/A,"Androgeus, Duke of Trinovantum",N/A,CRC046,N/A
+P677,CRP721,N/A,Julio Cesari,N/A,Julius Caesar,N/A,CRC046,N/A
+P678,CRP723,N/A,Claudius Caesar,N/A,Claudius Caesar,N/A,CRC050,N/A
+P679,CRP724,N/A,Hamonem,N/A,Hamo,N/A,CRC050,N/A
+P680,CRP725,N/A,Gewysiam,N/A,Genvissa,N/A,CRC050,N/A
+P681,CRP726,N/A,Petrus Apostulus,N/A,Apostle Peter,N/A,CRC050,N/A
+P682,CRP727,N/A,Rodric rex Pictorum,N/A,"Sodric, King of the Picts",N/A,CRC051,N/A
+P683,CRP728,N/A,Pagano,N/A,Fagan,N/A,CRC053,N/A
+P684,CRP729,N/A,Amniano,N/A,Duvianus,N/A,CRC053,N/A
+P688,CRP734,N/A,Elene,N/A,Helena,N/A,"CRC061, CRC060",N/A
+P689,CRP735,N/A,Silvestr' Papa,N/A,Pope Sylvester,N/A,CRC060,N/A
+P690,CRP736,N/A,Maxentius,N/A,Maxentius,N/A,CRC060,N/A
+P691,CRP738,N/A,Leoninus,N/A,Leoninus,N/A,"CRC061, CRC062",N/A
+P692,CRP739,N/A,Dux Inbaldus,N/A,"Imbalt, Duke",N/A,CRC062,N/A
+P693,CRP741,N/A,Aldroen,N/A,Aldroenus,N/A,CRC067,N/A
+P694,CRP742,N/A,Boethius,N/A,Boethius,N/A,CRC071,N/A
+P695,CRP743,N/A,Gorloyus ducis Cornubie,N/A,"Gorlois, Duke of Cornwall",N/A,CRC071,N/A
+P696,CRP744,N/A,Igerna,N/A,Igerna,N/A,CRC071,N/A
+P697,CRP745,N/A,Rowen,N/A,Rowan,N/A,CRC068,N/A
+P698,CRP746,N/A,Merlinus,N/A,Merlin,N/A,CRC068,N/A
+P699,CRP747,N/A,Germanus beatus,N/A,Germanicus the blessed,N/A,CRC068,N/A
+P700,CRP748,N/A,Lupus,N/A,Lupus,N/A,CRC068,N/A
+P701,CRP749,N/A,Dubricio,N/A,Dubricio,N/A,CRC072,N/A
+P702,CRP750,N/A,David,N/A,David,N/A,CRC072,N/A
+P703,CRP751,N/A,Gwenweber,N/A,Guinevere,N/A,CRC072,N/A
+P704,CRP752,N/A,Modredus,N/A,Modredus,N/A,CRC072,N/A
+P705,CRP753,N/A,Lucius Caesar,N/A,Lucius Caesar,N/A,CRC072,N/A
+P706,CRP754,N/A,Godmundus rex Affricanorum,N/A,"Godmundus, King of the Africans",N/A,CRC076,N/A
+P707,CRP755,N/A,dux Wallone,N/A,"Wallo the leader, Duke",N/A,"CRC077, CRC081",N/A
+P708,CRP756,N/A,Gwalce,N/A,Gwalce,N/A,CRC077,N/A
+P709,CRP757,N/A,Faramundus,N/A,Pharamond,N/A,CRC063,N/A
+P710,CRP758,N/A,Hors,N/A,Horsa,N/A,"CRC063, CRC068",N/A
+P711,CRP759,N/A,Augustinus,N/A,Augustine,N/A,"CRC075, CRC074",N/A
+P712,CRP760,N/A,Gregorius Papa,N/A,Pope Gregory,N/A,CRC075,N/A
+P713,CRP761,N/A,Mellitus,N/A,Mellitus,N/A,CRC075,N/A
+P714,CRP762,N/A,Justus,N/A,Justus,N/A,CRC075,N/A
+P715,CRP763,N/A,Paulinus,N/A,Paulinus,N/A,CRC075,N/A
+P716,CRP764,N/A,Romanus,N/A,Romanus,N/A,CRC075,N/A
+P718,CRP765,N/A,Rufus,N/A,Rufus,N/A,CRC075,N/A
+P719,CRP766,N/A,Sanctus Paulus,N/A,St Paul,N/A,CRC075,N/A
+P720,CRP767,N/A,Theoderus,N/A,Theodore,N/A,CRC075,N/A
+P721,CRP768,N/A,Birinus,N/A,Birinus,N/A,CRC078,N/A
+P722,CRP770,N/A,Wilfrido episcopo Wynton,N/A,"Wilfred, Bishop of Winchester",N/A,CRC079,N/A
+P723,CRP771,N/A,Angulo Germanie,N/A,Angulus of Germany,N/A,CRC084,N/A
+P724,CRP773,N/A,Karolus Calvus,N/A,Charles the Bald,N/A,CRC086,N/A
+P725,CRP775,N/A,Karolus Magnus,N/A,Charlemagne,N/A,"CRC061, CRC089",N/A
+P726,CRP776,N/A,Ingwar,N/A,Ingwar,N/A,CRC090,N/A
+P727,CRP777,N/A,Ubba,N/A,Ubba,N/A,CRC090,N/A
+P728,CRP778,N/A,Akal,N/A,Akal,N/A,CRC090,N/A
+P729,CRP779,N/A,Leo Papa,N/A,Pope Leo,N/A,CRC091,N/A
+P730,CRP780,N/A,Godrus rex Dacorum,N/A,"Godrus, King of the Danes",N/A,CRC091,N/A
+P731,CRP781,N/A,Hasteng,N/A,Hastein,N/A,CRC091,N/A
+P732,CRP782,N/A,Martinus Papa,N/A,Pope Martin,N/A,CRC091,N/A
+P733,CRP783,N/A,Anlaf,N/A,Anlaf,N/A,"CRC102, CRC097",N/A
+P734,CRP784,N/A,Reginaldus,N/A,Reginald,N/A,CRC097,N/A
+P735,CRP785,N/A,beatus Dunstanus,N/A,Dunstan the blessed ,N/A,"CRC098, CRC101",N/A
+P736,CRP786,N/A,Edelwaldus episcopus Wynton,N/A,"Æthelwold, Bishop of Winchester",N/A,"CRC100, CRC078",N/A
+P737,CRP789,N/A,Romulum,N/A,Romulus,N/A,CRC025,N/A
+P738,CRP800,N/A,"Robertum debilem, comitem Salopie",N/A,"Robert de Bellême, Earl of Shrewsbury",N/A,CRC113,N/A
+P739,CRP801,N/A,"Radulphum, archiepiscopum Cantuar",N/A,"Ralph d'Escures, Archbishop of Canterbury",N/A,CRC113,(=CRP806)
+P740,CRP802,N/A,Henrico imperatori,N/A,Emperor Henry,N/A,CRC113,N/A
+P741,CRP803,N/A,Phm de Bruus,N/A,Philip de Brus,N/A,CRC113,N/A
+P742,CRP804,N/A,Willm Malet,N/A,William Malet,N/A,CRC113,N/A
+P743,CRP805,N/A,Willm Baynarde,N/A,William Baynard,N/A,CRC113,N/A
+P744,CRP807,N/A,"Trustium, archiepiscopum Eborum",N/A,"Thurstan, Archbishop of York",N/A,CRC113,N/A
+P745,CRP808,N/A,Henricus primus episcopus de Hely,N/A,"Henry, (first) Bishop of Ely",N/A,CRC113,N/A
+P746,CRP810,N/A,Rogero Sarum episcopo,N/A,"Roger, Bishop of Salisbury",N/A,CRC114,N/A
+P747,CRP811,N/A,Alexandr' Lincollien' episcopo,N/A,"Alexander, Bishop of Lincoln",N/A,CRC114,N/A
+P748,CRP812,N/A,Sanctus Stephanus,N/A,St Stephen,N/A,CRC114,N/A
+P749,CRP813,N/A,Galfrid‘ Plantagenest‘ com [sic: Abbreviation of comitis] Andeg [sic: Abbreviation of Andegavorum],N/A,"Geoffrey Plantagenet, Count of Anjou",N/A,CRC115,N/A
+P750,CRP814,N/A,comes Cestrie,N/A,Earl of Chester,N/A,CRC114,N/A
+P751,CRP815,N/A,frater Imperatricis,N/A,Brother of the Empress,N/A,CRC114,N/A
+P752,CRP816,N/A,Thomam archiepiscopum Cantuar,N/A,"Thomas, Archbishop of Canterbury",N/A,CRC115,N/A
+P753,CRP817,N/A,Rogero Eborum archiepiscopo,N/A,"Roger, Archbishop of York",N/A,CRC115,N/A
+P754,CRP818,N/A,Philippus rex Francorum,N/A,"Philip, King of the Franks",N/A,CRC116,N/A
+P755,CRP819,N/A,dux Austrie,N/A,Duke of Austria,N/A,CRC116,N/A
+P756,CRP820,N/A,comes Engolismi,N/A,Count of Angoulême,N/A,CRC117,N/A
+P757,CRP821,N/A,Isabella,N/A,Isabella,N/A,CRC117,N/A
+P758,CRP822,N/A,Gwalone,N/A,Guala,N/A,CRC119,N/A
+P759,CRP823,N/A,archiepiscopus Cantaur' Stephanus,N/A,"Stephen, Archbishop of Canterbury",N/A,CRC119,N/A
+P760,CRP824,N/A,Thomas comes Loncastrie,N/A,"Thomas, Earl of Lancaster",N/A,CRC118,N/A
+P761,CRP825,N/A,Henricus comes Loncastrie,N/A,"Henry, Earl of Lancaster",N/A,CRC118,N/A
+P762,CRP826,N/A,Henricus comes Loncastrie,N/A,"Henry, Earl of Lancaster",N/A,CRC118,N/A
+P763,CRP827,N/A,Madocus,N/A,Madocus,N/A,CRC121,N/A
+P764,CRP828,N/A,Owynuus Glyndore,N/A,Owain Glyndŵr,N/A,CRC125,N/A
+P765,CRP829,N/A,comes Northumberlandie,N/A,Earl of Northumberland,CRN578,CRC133,N/A
+P766,CRP831,N/A,filia [Margaret] ducis Burgundie,N/A,"Margaret, daughter of the Duke of Burgandy",N/A,CRC120,N/A
+P767,CRP832,N/A,filia [Joan II of Navarre] de prima uxore [Margaret of Burgundy],N/A,"Joan II of Navarre, daughter of Margaret of Burgundy",N/A,CRC120,N/A
+P768,CRP833,N/A,filia [Clementia] regis Hungarie,N/A,"Clementia, daughter of the king of Hungary",N/A,CRC120,N/A
+P769,CRP834,N/A,"Philipum uxor [Joan II, Countess of Burgundy]",N/A,"Joan II, Countess of Burgundy",N/A,CRC120,N/A
+P770,CRP835,N/A,"filia desponsata erat comiti Flandrie [Margaret I, Countess of Burgundy; Countess of Artois]",N/A,"Margaret I, Countess of Burgundy; Countess of Artois",N/A,CRC120,N/A
+P771,CRP836,N/A,"filia desponsata erat Dolphino de Viennis [Isabella of France, Dauphine of Viennois]",N/A,"Isabella of France, Dauphine of Viennois, daughter of Philip",N/A,CRC120,N/A
+P772,CRP837,N/A,comes Flandrie,N/A,Count of Flanders,N/A,CRC120,N/A
+P773,CRP838,N/A,Dolphinus de Viennis,N/A,Dauphin of Vienne,N/A,CRC120,N/A
+P774,CRP839,N/A,Philippus,N/A,Philip,N/A,CRC120,N/A
+P985,CRP730,N/A,Eleutherius Papa,N/A,Pope Eleutherius,N/A,CRC053,N/A
+P986,CRP731,N/A,Livium [Wall: Tinum] Gallum,N/A,Luvius the Gaul,N/A,CRC057,N/A
+P987,CRP732,N/A,Beati Albani,N/A,Alban the blessed,N/A,CRC083,N/A
